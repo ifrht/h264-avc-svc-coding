@@ -1,0 +1,11 @@
+qp_qcif = [44 28 12];
+qp_cif = [44 28 12];
+bitrate_qcif = [98.23 177.38 467.92];
+bitrate_cif = [310.13 700.66 1945.7];
+hold on;
+plot(qp_qcif,bitrate_qcif,'-*');
+plot(qp_cif,bitrate_cif,'-*');
+title('JSVM QP-Bitrate');
+xlabel('QP Deðeri');
+ylabel('Bitrate (kb/s)');
+legend('QCIF','CIF');

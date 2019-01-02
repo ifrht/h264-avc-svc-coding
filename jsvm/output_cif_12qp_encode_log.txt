@@ -1,0 +1,1127 @@
+JSVM 9.19.15 Encoder
+
+
+
+profile & level info:
+=====================
+DQ=  0:  Baseline @ Level 2.1
+DQ=  1:  Scalable Baseline @ Level 2.1
+DQ=  2:  Scalable High @ Level 2.2
+
+
+AU     0: I    T0 L0 Q0   QP 10   Y 51.0114  U 51.9054  V 52.2898    371328 bit
+       0: I    T0 L0 Q1   QP  8   Y 52.7730  U 53.2973  V 53.5824    194376 bit
+       0: I    T0 L0 Q2   QP  6   Y 54.3343  U 56.1631  V 57.1167    124160 bit
+AU     8: P    T0 L0 Q0   QP 10   Y 34.4908  U 49.2049  V 49.6188     28472 bit
+       8: P    T0 L0 Q1   QP  8   Y 35.6115  U 49.7387  V 50.5883     38040 bit
+       8: P    T0 L0 Q2   QP  6   Y 34.2109  U 49.1793  V 49.8817     33656 bit
+AU     4: P    T1 L0 Q0   QP 13   Y 36.8950  U 49.3057  V 49.2196     15048 bit
+       4: P    T1 L0 Q1   QP 11   Y 37.8351  U 49.6920  V 50.1075     14528 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+       4: P    T1 L0 Q2   QP  9   Y 35.6297  U 49.5162  V 49.7320     19512 bit
+AU     2: P    T2 L0 Q0   QP 14   Y 37.2535  U 49.6435  V 49.8569      7824 bit
+       2: P    T2 L0 Q1   QP 12   Y 39.5315  U 50.1008  V 50.4996     11152 bit
+       2: P    T2 L0 Q2   QP 10   Y 34.6995  U 49.8513  V 50.1791      6872 bit
+AU     1: P    T3 L0 Q0   QP 15   Y 37.8277  U 49.8541  V 50.1444       112 bit
+       1: P    T3 L0 Q1   QP 13   Y 38.9051  U 50.1075  V 50.6010      3152 bit
+       1: P    T3 L0 Q2   QP 11   Y 37.8470  U 50.2963  V 50.8530       176 bit
+AU     3: P    T3 L0 Q0   QP 15   Y 35.9533  U 49.2786  V 49.0507       112 bit
+       3: P    T3 L0 Q1   QP 13   Y 36.6289  U 49.5543  V 49.6781       824 bit
+       3: P    T3 L0 Q2   QP 11   Y 35.2685  U 49.5273  V 49.5949       176 bit
+AU     6: P    T2 L0 Q0   QP 14   Y 33.2485  U 48.8701  V 48.8474      2024 bit
+       6: P    T2 L0 Q1   QP 12   Y 35.4458  U 49.4798  V 49.9646     10496 bit
+       6: P    T2 L0 Q2   QP 10   Y 32.7566  U 48.9480  V 49.1922       176 bit
+AU     5: P    T3 L0 Q0   QP 15   Y 34.8008  U 49.1197  V 49.3169      1088 bit
+       5: P    T3 L0 Q1   QP 13   Y 35.3978  U 49.2958  V 49.5954      1944 bit
+       5: P    T3 L0 Q2   QP 11   Y 33.4973  U 48.9482  V 48.7950       176 bit
+AU     7: P    T3 L0 Q0   QP 15   Y 34.4385  U 49.0863  V 49.4474       112 bit
+       7: P    T3 L0 Q1   QP 13   Y 35.2504  U 49.3515  V 50.1235       168 bit
+       7: P    T3 L0 Q2   QP 11   Y 34.2430  U 49.0639  V 49.8322       176 bit
+AU    16: I    T0 L0 Q0   QP 10   Y 51.0410  U 51.9239  V 52.1501    372400 bit
+      16: I    T0 L0 Q1   QP  8   Y 52.8067  U 53.3375  V 53.6527    194272 bit
+      16: I    T0 L0 Q2   QP  6   Y 54.3286  U 56.2723  V 57.2925    123656 bit
+AU    12: P    T1 L0 Q0   QP 13   Y 32.7899  U 48.3570  V 48.4210     15984 bit
+      12: P    T1 L0 Q1   QP 11   Y 34.0649  U 48.6352  V 49.2077     18256 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+      12: P    T1 L0 Q2   QP  9   Y 31.8815  U 47.8538  V 47.9320     21320 bit
+AU    10: P    T2 L0 Q0   QP 14   Y 32.7158  U 48.4949  V 48.4539      8664 bit
+      10: P    T2 L0 Q1   QP 12   Y 34.2257  U 48.9706  V 49.5548     10800 bit
+      10: P    T2 L0 Q2   QP 10   Y 31.1937  U 48.0750  V 48.0490      5608 bit
+AU     9: P    T3 L0 Q0   QP 15   Y 32.9229  U 48.7101  V 48.8464      1336 bit
+       9: P    T3 L0 Q1   QP 13   Y 33.9707  U 49.0762  V 49.8843      3032 bit
+       9: P    T3 L0 Q2   QP 11   Y 32.3988  U 48.5513  V 48.9484       176 bit
+AU    11: P    T3 L0 Q0   QP 15   Y 32.9147  U 48.4223  V 48.5786       112 bit
+      11: P    T3 L0 Q1   QP 13   Y 33.7070  U 48.5910  V 49.1068      1016 bit
+      11: P    T3 L0 Q2   QP 11   Y 32.1511  U 47.9985  V 48.2921       176 bit
+AU    14: P    T2 L0 Q0   QP 14   Y 36.9828  U 49.5282  V 49.7713      6944 bit
+      14: P    T2 L0 Q1   QP 12   Y 39.2620  U 49.9923  V 50.5481     11272 bit
+      14: P    T2 L0 Q2   QP 10   Y 34.1830  U 49.8383  V 50.0600      3880 bit
+AU    13: P    T3 L0 Q0   QP 15   Y 32.2721  U 48.1773  V 48.3393      4792 bit
+      13: P    T3 L0 Q1   QP 13   Y 33.2475  U 48.4754  V 49.2095      5224 bit
+      13: P    T3 L0 Q2   QP 11   Y 30.8932  U 47.4474  V 47.3136      1768 bit
+AU    15: P    T3 L0 Q0   QP 15   Y 38.0248  U 49.7053  V 50.1945       112 bit
+      15: P    T3 L0 Q1   QP 13   Y 38.6142  U 50.1089  V 50.7793      1672 bit
+      15: P    T3 L0 Q2   QP 11   Y 38.0651  U 50.2130  V 51.0552       176 bit
+AU    24: P    T0 L0 Q0   QP 10   Y 34.4865  U 49.0794  V 49.8992     27696 bit
+      24: P    T0 L0 Q1   QP  8   Y 35.7484  U 49.7357  V 50.7195     40904 bit
+      24: P    T0 L0 Q2   QP  6   Y 34.0194  U 49.0355  V 50.2478     31704 bit
+AU    20: P    T1 L0 Q0   QP 13   Y 36.5371  U 49.3563  V 49.2949     14872 bit
+      20: P    T1 L0 Q1   QP 11   Y 37.4694  U 49.7651  V 50.4505     15624 bit
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+      20: P    T1 L0 Q2   QP  9   Y 35.3078  U 49.3359  V 49.6321     21184 bit
+AU    18: P    T2 L0 Q0   QP 14   Y 37.1049  U 49.6062  V 49.8500      6912 bit
+      18: P    T2 L0 Q1   QP 12   Y 39.4810  U 50.0851  V 50.6919     10272 bit
+      18: P    T2 L0 Q2   QP 10   Y 34.5255  U 49.9240  V 50.3608      5064 bit
+AU    17: P    T3 L0 Q0   QP 15   Y 37.8907  U 49.7538  V 50.1800       120 bit
+      17: P    T3 L0 Q1   QP 13   Y 38.7479  U 50.1482  V 50.7353      2416 bit
+      17: P    T3 L0 Q2   QP 11   Y 37.9057  U 50.2247  V 50.9829       176 bit
+AU    19: P    T3 L0 Q0   QP 15   Y 36.3572  U 49.3438  V 49.4354       112 bit
+      19: P    T3 L0 Q1   QP 13   Y 37.4032  U 49.7085  V 50.2492      2056 bit
+      19: P    T3 L0 Q2   QP 11   Y 34.8252  U 49.5641  V 49.8549       176 bit
+AU    22: P    T2 L0 Q0   QP 14   Y 33.5389  U 48.8762  V 49.2499      5608 bit
+      22: P    T2 L0 Q1   QP 12   Y 35.8388  U 49.4551  V 50.2119     11352 bit
+      22: P    T2 L0 Q2   QP 10   Y 32.4219  U 48.8689  V 49.5138      2352 bit
+AU    21: P    T3 L0 Q0   QP 15   Y 34.1587  U 49.1004  V 48.9923      1800 bit
+      21: P    T3 L0 Q1   QP 13   Y 35.6483  U 49.4735  V 50.0402      6944 bit
+      21: P    T3 L0 Q2   QP 11   Y 33.4488  U 48.7685  V 48.8304      1400 bit
+AU    23: P    T3 L0 Q0   QP 15   Y 34.1680  U 48.8919  V 49.6520       168 bit
+      23: P    T3 L0 Q1   QP 13   Y 35.2273  U 49.3932  V 50.2277      1248 bit
+      23: P    T3 L0 Q2   QP 11   Y 33.7595  U 48.9399  V 49.9997       176 bit
+AU    32: I    T0 L0 Q0   QP 10   Y 51.0146  U 51.8526  V 52.2317    373400 bit
+      32: I    T0 L0 Q1   QP  8   Y 52.7740  U 53.3500  V 53.5932    193872 bit
+      32: I    T0 L0 Q2   QP  6   Y 54.3209  U 56.3071  V 57.1920    124840 bit
+AU    28: P    T1 L0 Q0   QP 13   Y 32.9796  U 48.3275  V 48.2946     15736 bit
+      28: P    T1 L0 Q1   QP 11   Y 33.9935  U 48.7768  V 49.6021     14592 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+      28: P    T1 L0 Q2   QP  9   Y 31.9845  U 47.6525  V 48.2772     23088 bit
+AU    26: P    T2 L0 Q0   QP 14   Y 32.6267  U 48.6308  V 48.9482      7384 bit
+      26: P    T2 L0 Q1   QP 12   Y 34.3742  U 49.0046  V 49.8789     12072 bit
+      26: P    T2 L0 Q2   QP 10   Y 31.0954  U 48.0549  V 48.6300      4640 bit
+AU    25: P    T3 L0 Q0   QP 15   Y 33.1783  U 48.8593  V 49.4271      1016 bit
+      25: P    T3 L0 Q1   QP 13   Y 34.1534  U 49.1773  V 50.0830      2648 bit
+      25: P    T3 L0 Q2   QP 11   Y 32.5500  U 48.4692  V 49.5734       176 bit
+AU    27: P    T3 L0 Q0   QP 15   Y 33.0559  U 48.3976  V 48.5248       112 bit
+      27: P    T3 L0 Q1   QP 13   Y 33.6640  U 48.6846  V 49.3813       968 bit
+      27: P    T3 L0 Q2   QP 11   Y 31.8982  U 47.7821  V 48.4052       176 bit
+AU    30: P    T2 L0 Q0   QP 14   Y 36.9006  U 49.4831  V 49.6639      6224 bit
+      30: P    T2 L0 Q1   QP 12   Y 39.1558  U 49.9403  V 50.3221      9720 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+      30: P    T2 L0 Q2   QP 10   Y 34.1795  U 49.7369  V 49.9349      2352 bit
+AU    29: P    T3 L0 Q0   QP 15   Y 32.3745  U 48.3037  V 48.4616      3664 bit
+      29: P    T3 L0 Q1   QP 13   Y 33.1414  U 48.5136  V 49.3302      3432 bit
+      29: P    T3 L0 Q2   QP 11   Y 31.0820  U 47.1913  V 47.7628       648 bit
+AU    31: P    T3 L0 Q0   QP 15   Y 38.7675  U 49.6979  V 50.1866       112 bit
+      31: P    T3 L0 Q1   QP 13   Y 38.8878  U 50.0026  V 50.5736       456 bit
+      31: P    T3 L0 Q2   QP 11   Y 38.8028  U 50.1734  V 51.0091       176 bit
+AU    40: P    T0 L0 Q0   QP 10   Y 34.7292  U 49.3969  V 50.1649     29984 bit
+      40: P    T0 L0 Q1   QP  8   Y 35.8357  U 49.6444  V 50.6795     41504 bit
+      40: P    T0 L0 Q2   QP  6   Y 34.2610  U 49.2976  V 50.3832     34840 bit
+AU    36: P    T1 L0 Q0   QP 13   Y 36.8722  U 49.4151  V 49.7211     14976 bit
+      36: P    T1 L0 Q1   QP 11   Y 37.6771  U 49.8077  V 50.4758     12960 bit
+      36: P    T1 L0 Q2   QP  9   Y 35.2004  U 49.3873  V 49.5815     18000 bit
+AU    34: P    T2 L0 Q0   QP 14   Y 36.9266  U 49.4646  V 49.7949      5744 bit
+      34: P    T2 L0 Q1   QP 12   Y 39.3978  U 49.9680  V 50.2442     11496 bit
+      34: P    T2 L0 Q2   QP 10   Y 34.3259  U 49.7713  V 49.9690      4128 bit
+AU    33: P    T3 L0 Q0   QP 15   Y 38.4830  U 49.7981  V 50.2200       120 bit
+      33: P    T3 L0 Q1   QP 13   Y 38.5139  U 50.1335  V 50.6268       168 bit
+      33: P    T3 L0 Q2   QP 11   Y 38.5050  U 50.3363  V 51.0462       176 bit
+AU    35: P    T3 L0 Q0   QP 15   Y 37.1376  U 49.3531  V 49.7451       112 bit
+      35: P    T3 L0 Q1   QP 13   Y 36.7501  U 49.6879  V 50.1706      1160 bit
+      35: P    T3 L0 Q2   QP 11   Y 35.2261  U 49.5503  V 49.8538       176 bit
+AU    38: P    T2 L0 Q0   QP 14   Y 33.3536  U 48.9933  V 49.1419      2952 bit
+      38: P    T2 L0 Q1   QP 12   Y 35.7812  U 49.4698  V 50.0134     10584 bit
+      38: P    T2 L0 Q2   QP 10   Y 33.0073  U 49.0292  V 49.4695      2576 bit
+AU    37: P    T3 L0 Q0   QP 15   Y 34.2163  U 49.1107  V 49.4068      1272 bit
+      37: P    T3 L0 Q1   QP 13   Y 35.2663  U 49.4560  V 49.8358      2368 bit
+      37: P    T3 L0 Q2   QP 11   Y 33.0923  U 48.7451  V 48.4379       480 bit
+AU    39: P    T3 L0 Q0   QP 15   Y 34.3900  U 49.1898  V 49.7372       112 bit
+      39: P    T3 L0 Q1   QP 13   Y 35.3777  U 49.3185  V 50.1303      1400 bit
+      39: P    T3 L0 Q2   QP 11   Y 34.1121  U 49.1216  V 49.9492       176 bit
+AU    48: I    T0 L0 Q0   QP 10   Y 51.0153  U 51.8761  V 52.2511    374872 bit
+      48: I    T0 L0 Q1   QP  8   Y 52.7498  U 53.3013  V 53.6065    194968 bit
+      48: I    T0 L0 Q2   QP  6   Y 54.3522  U 56.2913  V 57.1892    125712 bit
+AU    44: P    T1 L0 Q0   QP 13   Y 33.0556  U 48.6129  V 48.7449     19720 bit
+      44: P    T1 L0 Q1   QP 11   Y 34.2569  U 48.8154  V 49.4280     18192 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+      44: P    T1 L0 Q2   QP  9   Y 32.1069  U 47.9619  V 48.1151     22064 bit
+AU    42: P    T2 L0 Q0   QP 14   Y 32.7523  U 48.6126  V 48.8962      7728 bit
+      42: P    T2 L0 Q1   QP 12   Y 34.2914  U 48.8397  V 49.2741     10064 bit
+      42: P    T2 L0 Q2   QP 10   Y 31.3177  U 48.2923  V 48.5395      7352 bit
+AU    41: P    T3 L0 Q0   QP 15   Y 32.9935  U 48.8978  V 49.4377       632 bit
+      41: P    T3 L0 Q1   QP 13   Y 34.2240  U 49.0903  V 49.7951      4384 bit
+      41: P    T3 L0 Q2   QP 11   Y 32.4413  U 48.6690  V 49.3597       176 bit
+AU    43: P    T3 L0 Q0   QP 15   Y 32.9940  U 48.5527  V 48.8670       112 bit
+      43: P    T3 L0 Q1   QP 13   Y 33.8389  U 48.7000  V 49.2576      1856 bit
+      43: P    T3 L0 Q2   QP 11   Y 32.1323  U 48.0689  V 48.3969       176 bit
+AU    46: P    T2 L0 Q0   QP 14   Y 36.6658  U 49.3777  V 49.5505      6648 bit
+      46: P    T2 L0 Q1   QP 12   Y 39.0796  U 50.0076  V 50.3175      9776 bit
+      46: P    T2 L0 Q2   QP 10   Y 34.3322  U 49.8138  V 49.7538      4048 bit
+AU    45: P    T3 L0 Q0   QP 15   Y 32.2701  U 48.3767  V 48.3046      3352 bit
+      45: P    T3 L0 Q1   QP 13   Y 33.2520  U 48.5306  V 48.8890      3880 bit
+      45: P    T3 L0 Q2   QP 11   Y 31.0774  U 47.4868  V 47.2936       888 bit
+AU    47: P    T3 L0 Q0   QP 15   Y 38.1109  U 49.6529  V 50.1764       144 bit
+      47: P    T3 L0 Q1   QP 13   Y 38.8784  U 50.1056  V 50.7304      2216 bit
+      47: P    T3 L0 Q2   QP 11   Y 38.1275  U 50.2949  V 51.0295       176 bit
+AU    56: P    T0 L0 Q0   QP 10   Y 34.3809  U 49.0720  V 49.8350     28248 bit
+      56: P    T0 L0 Q1   QP  8   Y 35.8125  U 49.8140  V 50.7745     42040 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+      56: P    T0 L0 Q2   QP  6   Y 34.2663  U 49.1244  V 50.1305     35368 bit
+AU    52: P    T1 L0 Q0   QP 13   Y 36.3617  U 49.3681  V 49.4934     13216 bit
+      52: P    T1 L0 Q1   QP 11   Y 37.8320  U 49.8416  V 50.4435     14080 bit
+      52: P    T1 L0 Q2   QP  9   Y 34.7169  U 49.3843  V 49.3942     17592 bit
+AU    50: P    T2 L0 Q0   QP 14   Y 37.0580  U 49.4595  V 49.6139      7424 bit
+      50: P    T2 L0 Q1   QP 12   Y 38.9267  U 50.0838  V 50.4464      8024 bit
+      50: P    T2 L0 Q2   QP 10   Y 34.1563  U 49.8123  V 49.8236      2472 bit
+AU    49: P    T3 L0 Q0   QP 15   Y 38.4168  U 49.7260  V 50.2481       120 bit
+      49: P    T3 L0 Q1   QP 13   Y 39.0839  U 50.1005  V 50.6528      1784 bit
+      49: P    T3 L0 Q2   QP 11   Y 38.4405  U 50.2783  V 51.0118       176 bit
+AU    51: P    T3 L0 Q0   QP 15   Y 35.1473  U 49.2552  V 49.3221       240 bit
+      51: P    T3 L0 Q1   QP 13   Y 36.7288  U 49.6918  V 50.0755      4312 bit
+      51: P    T3 L0 Q2   QP 11   Y 34.5377  U 49.5058  V 49.6000       176 bit
+AU    54: P    T2 L0 Q0   QP 14   Y 33.4726  U 48.8102  V 49.0153      4632 bit
+      54: P    T2 L0 Q1   QP 12   Y 35.9872  U 49.4899  V 50.0346     11136 bit
+      54: P    T2 L0 Q2   QP 10   Y 32.7355  U 48.9162  V 49.2813      2448 bit
+AU    53: P    T3 L0 Q0   QP 15   Y 34.6868  U 49.0397  V 49.1926      1504 bit
+      53: P    T3 L0 Q1   QP 13   Y 35.6676  U 49.4045  V 49.9429      1840 bit
+      53: P    T3 L0 Q2   QP 11   Y 32.8595  U 48.6877  V 48.3144       784 bit
+AU    55: P    T3 L0 Q0   QP 15   Y 34.2949  U 49.0040  V 49.6588       200 bit
+      55: P    T3 L0 Q1   QP 13   Y 35.1963  U 49.4241  V 50.2469      1064 bit
+      55: P    T3 L0 Q2   QP 11   Y 34.1083  U 49.0457  V 49.9685       176 bit
+AU    64: I    T0 L0 Q0   QP 10   Y 50.9949  U 51.8713  V 52.2044    375016 bit
+      64: I    T0 L0 Q1   QP  8   Y 52.7820  U 53.3267  V 53.6186    194848 bit
+      64: I    T0 L0 Q2   QP  6   Y 54.3243  U 56.2190  V 57.1686    123600 bit
+AU    60: P    T1 L0 Q0   QP 13   Y 32.7408  U 48.1363  V 48.4884     16976 bit
+      60: P    T1 L0 Q1   QP 11   Y 34.1868  U 48.7608  V 49.5327     18048 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+      60: P    T1 L0 Q2   QP  9   Y 31.5517  U 47.5123  V 47.4719     19744 bit
+AU    58: P    T2 L0 Q0   QP 14   Y 32.5336  U 48.1499  V 48.2020      8056 bit
+      58: P    T2 L0 Q1   QP 12   Y 34.2487  U 49.0239  V 49.7791     10824 bit
+      58: P    T2 L0 Q2   QP 10   Y 31.6029  U 47.9520  V 48.0392      7216 bit
+AU    57: P    T3 L0 Q0   QP 15   Y 33.0460  U 48.6719  V 49.1259      1768 bit
+      57: P    T3 L0 Q1   QP 13   Y 34.3017  U 49.2674  V 49.9797      2728 bit
+      57: P    T3 L0 Q2   QP 11   Y 32.5436  U 48.4841  V 49.1231       176 bit
+AU    59: P    T3 L0 Q0   QP 15   Y 32.6518  U 48.1120  V 48.5538       112 bit
+      59: P    T3 L0 Q1   QP 13   Y 33.6503  U 48.6766  V 49.3663      1616 bit
+      59: P    T3 L0 Q2   QP 11   Y 32.0243  U 47.6762  V 47.7783       176 bit
+AU    62: P    T2 L0 Q0   QP 14   Y 36.5602  U 49.4174  V 49.5065      6024 bit
+      62: P    T2 L0 Q1   QP 12   Y 38.5672  U 49.8958  V 50.3076      8504 bit
+      62: P    T2 L0 Q2   QP 10   Y 34.3713  U 49.6715  V 49.8360      2384 bit
+AU    61: P    T3 L0 Q0   QP 15   Y 32.1478  U 47.7903  V 47.9899      3216 bit
+      61: P    T3 L0 Q1   QP 13   Y 33.1398  U 48.4014  V 49.0537      2984 bit
+      61: P    T3 L0 Q2   QP 11   Y 30.6745  U 47.1153  V 47.1086      2536 bit
+AU    63: P    T3 L0 Q0   QP 15   Y 38.7169  U 49.6830  V 50.2297       112 bit
+      63: P    T3 L0 Q1   QP 13   Y 38.9715  U 49.9973  V 50.5968       752 bit
+      63: P    T3 L0 Q2   QP 11   Y 38.7612  U 50.1992  V 51.0248       176 bit
+AU    72: P    T0 L0 Q0   QP 10   Y 34.6281  U 49.0984  V 49.8148     31160 bit
+      72: P    T0 L0 Q1   QP  8   Y 35.6343  U 49.6205  V 50.7185     37384 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+      72: P    T0 L0 Q2   QP  6   Y 34.2898  U 49.1791  V 50.3156     35704 bit
+AU    68: P    T1 L0 Q0   QP 13   Y 36.9504  U 49.4421  V 49.4206     17760 bit
+      68: P    T1 L0 Q1   QP 11   Y 37.5166  U 49.7551  V 50.4043     13392 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+      68: P    T1 L0 Q2   QP  9   Y 35.7575  U 49.6009  V 49.8498     21056 bit
+AU    66: P    T2 L0 Q0   QP 14   Y 36.8044  U 49.4761  V 49.6810      6536 bit
+      66: P    T2 L0 Q1   QP 12   Y 39.3800  U 49.9100  V 50.3446      9032 bit
+      66: P    T2 L0 Q2   QP 10   Y 34.3718  U 49.6781  V 49.7541      4760 bit
+AU    65: P    T3 L0 Q0   QP 15   Y 38.3903  U 49.6893  V 50.3054       120 bit
+      65: P    T3 L0 Q1   QP 13   Y 38.6104  U 49.9945  V 50.7188       752 bit
+      65: P    T3 L0 Q2   QP 11   Y 38.4167  U 50.1932  V 51.1363       176 bit
+AU    67: P    T3 L0 Q0   QP 15   Y 36.4893  U 49.3302  V 49.4946       112 bit
+      67: P    T3 L0 Q1   QP 13   Y 37.5136  U 49.6977  V 50.1855      2152 bit
+      67: P    T3 L0 Q2   QP 11   Y 35.2087  U 49.5662  V 49.8948       176 bit
+AU    70: P    T2 L0 Q0   QP 14   Y 33.1899  U 48.7764  V 48.8050      3496 bit
+      70: P    T2 L0 Q1   QP 12   Y 35.6009  U 49.4349  V 50.0336     12328 bit
+      70: P    T2 L0 Q2   QP 10   Y 32.6268  U 48.8856  V 49.0609      2656 bit
+AU    69: P    T3 L0 Q0   QP 15   Y 34.3916  U 48.9218  V 48.7740      1472 bit
+      69: P    T3 L0 Q1   QP 13   Y 35.4933  U 49.2104  V 49.8707      5304 bit
+      69: P    T3 L0 Q2   QP 11   Y 33.3954  U 48.8705  V 48.7748       176 bit
+AU    71: P    T3 L0 Q0   QP 15   Y 34.1685  U 48.9579  V 49.5082       112 bit
+      71: P    T3 L0 Q1   QP 13   Y 35.0996  U 49.2519  V 50.1734      1512 bit
+      71: P    T3 L0 Q2   QP 11   Y 33.8828  U 49.0250  V 49.9281       176 bit
+AU    80: I    T0 L0 Q0   QP 10   Y 51.0145  U 51.9510  V 52.2264    376744 bit
+      80: I    T0 L0 Q1   QP  8   Y 52.8112  U 53.3114  V 53.5884    194776 bit
+      80: I    T0 L0 Q2   QP  6   Y 54.3698  U 56.2857  V 57.1809    123800 bit
+AU    76: P    T1 L0 Q0   QP 13   Y 32.9666  U 48.2692  V 48.4014     18416 bit
+      76: P    T1 L0 Q1   QP 11   Y 34.1520  U 48.5748  V 49.5124     18688 bit
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+      76: P    T1 L0 Q2   QP  9   Y 32.2915  U 47.9844  V 48.4325     21424 bit
+AU    74: P    T2 L0 Q0   QP 14   Y 32.6598  U 48.4698  V 48.7513      9640 bit
+      74: P    T2 L0 Q1   QP 12   Y 34.2084  U 48.9128  V 49.7621     11760 bit
+      74: P    T2 L0 Q2   QP 10   Y 31.3766  U 48.1252  V 48.6597      5584 bit
+AU    73: P    T3 L0 Q0   QP 15   Y 33.1606  U 48.8325  V 49.1367      1768 bit
+      73: P    T3 L0 Q1   QP 13   Y 34.1438  U 49.1051  V 49.9476      3688 bit
+      73: P    T3 L0 Q2   QP 11   Y 32.5441  U 48.6281  V 49.3715       176 bit
+AU    75: P    T3 L0 Q0   QP 15   Y 32.5999  U 48.3264  V 48.4426       112 bit
+      75: P    T3 L0 Q1   QP 13   Y 33.5797  U 48.5608  V 49.2641      1440 bit
+      75: P    T3 L0 Q2   QP 11   Y 32.0963  U 48.0406  V 48.5139       176 bit
+AU    78: P    T2 L0 Q0   QP 14   Y 37.0252  U 49.5729  V 49.8814      7968 bit
+      78: P    T2 L0 Q1   QP 12   Y 38.9967  U 50.1048  V 50.5174      9760 bit
+      78: P    T2 L0 Q2   QP 10   Y 33.6644  U 49.6788  V 49.5009      1464 bit
+AU    77: P    T3 L0 Q0   QP 15   Y 32.1699  U 48.2088  V 47.9942      2800 bit
+      77: P    T3 L0 Q1   QP 13   Y 32.9545  U 48.2680  V 48.9251      2576 bit
+      77: P    T3 L0 Q2   QP 11   Y 31.0798  U 47.5486  V 47.6975       176 bit
+AU    79: P    T3 L0 Q0   QP 15   Y 37.6927  U 49.8234  V 50.0474       112 bit
+      79: P    T3 L0 Q1   QP 13   Y 38.7123  U 50.1181  V 50.6007      2512 bit
+      79: P    T3 L0 Q2   QP 11   Y 37.7295  U 50.3523  V 50.7774       176 bit
+AU    88: P    T0 L0 Q0   QP 10   Y 34.6666  U 49.0987  V 49.6556     29496 bit
+      88: P    T0 L0 Q1   QP  8   Y 35.8003  U 49.6790  V 50.8001     44528 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+      88: P    T0 L0 Q2   QP  6   Y 34.4076  U 48.9708  V 49.2650     35904 bit
+AU    84: P    T1 L0 Q0   QP 13   Y 36.2810  U 49.3615  V 49.4946     15952 bit
+      84: P    T1 L0 Q1   QP 11   Y 37.5823  U 49.7491  V 50.4567     16128 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+      84: P    T1 L0 Q2   QP  9   Y 34.5776  U 49.4786  V 49.7258     19568 bit
+AU    82: P    T2 L0 Q0   QP 14   Y 36.4623  U 49.4962  V 49.8365      6040 bit
+      82: P    T2 L0 Q1   QP 12   Y 38.5129  U 49.9567  V 50.5053      9472 bit
+      82: P    T2 L0 Q2   QP 10   Y 34.0039  U 49.6724  V 49.8638       960 bit
+AU    81: P    T3 L0 Q0   QP 15   Y 38.4901  U 49.7553  V 50.3164       120 bit
+      81: P    T3 L0 Q1   QP 13   Y 38.6894  U 50.0227  V 50.7307       672 bit
+      81: P    T3 L0 Q2   QP 11   Y 38.5130  U 50.2169  V 51.0637       176 bit
+AU    83: P    T3 L0 Q0   QP 15   Y 36.2006  U 49.2918  V 49.4649       112 bit
+      83: P    T3 L0 Q1   QP 13   Y 36.9854  U 49.6364  V 50.0190       864 bit
+      83: P    T3 L0 Q2   QP 11   Y 35.3055  U 49.5629  V 49.9141       176 bit
+AU    86: P    T2 L0 Q0   QP 14   Y 33.3984  U 48.9847  V 49.0647      4080 bit
+      86: P    T2 L0 Q1   QP 12   Y 35.4150  U 49.5367  V 50.1116     13072 bit
+      86: P    T2 L0 Q2   QP 10   Y 32.9729  U 48.8868  V 48.5885       176 bit
+AU    85: P    T3 L0 Q0   QP 15   Y 33.8459  U 49.0021  V 49.0548      1136 bit
+      85: P    T3 L0 Q1   QP 13   Y 35.1952  U 49.3036  V 49.8584      3960 bit
+      85: P    T3 L0 Q2   QP 11   Y 32.3880  U 48.7858  V 48.5442       912 bit
+AU    87: P    T3 L0 Q0   QP 15   Y 34.0934  U 49.0620  V 49.4840       112 bit
+      87: P    T3 L0 Q1   QP 13   Y 34.9136  U 49.3953  V 50.2314       800 bit
+      87: P    T3 L0 Q2   QP 11   Y 34.3379  U 48.9637  V 49.3397       176 bit
+AU    96: I    T0 L0 Q0   QP 10   Y 50.9843  U 51.8981  V 52.2840    376152 bit
+      96: I    T0 L0 Q1   QP  8   Y 52.7544  U 53.3233  V 53.6162    194688 bit
+      96: I    T0 L0 Q2   QP  6   Y 54.3574  U 56.2278  V 57.2155    124808 bit
+AU    92: P    T1 L0 Q0   QP 13   Y 33.4995  U 48.7237  V 49.1488     23968 bit
+      92: P    T1 L0 Q1   QP 11   Y 34.3043  U 48.9583  V 49.9771     19920 bit
+      92: P    T1 L0 Q2   QP  9   Y 32.0213  U 48.0488  V 48.8126     23920 bit
+AU    90: P    T2 L0 Q0   QP 14   Y 32.6252  U 48.6346  V 49.2931      9552 bit
+      90: P    T2 L0 Q1   QP 12   Y 34.1584  U 48.9660  V 49.7999     13464 bit
+      90: P    T2 L0 Q2   QP 10   Y 31.0742  U 47.8968  V 47.8890      3232 bit
+AU    89: P    T3 L0 Q0   QP 15   Y 33.1777  U 48.9173  V 49.6224       904 bit
+      89: P    T3 L0 Q1   QP 13   Y 33.9962  U 49.0796  V 49.9346      1656 bit
+      89: P    T3 L0 Q2   QP 11   Y 32.6519  U 48.4469  V 48.8268       888 bit
+AU    91: P    T3 L0 Q0   QP 15   Y 32.9431  U 48.7213  V 49.1012       112 bit
+      91: P    T3 L0 Q1   QP 13   Y 33.6520  U 48.8809  V 49.6379      1608 bit
+      91: P    T3 L0 Q2   QP 11   Y 31.8895  U 48.1640  V 48.8913       176 bit
+AU    94: P    T2 L0 Q0   QP 14   Y 37.1699  U 49.6072  V 49.9871      7488 bit
+      94: P    T2 L0 Q1   QP 12   Y 39.0546  U 49.9750  V 50.3927      9200 bit
+      94: P    T2 L0 Q2   QP 10   Y 34.0373  U 49.6697  V 49.8140      3200 bit
+AU    93: P    T3 L0 Q0   QP 15   Y 32.3379  U 48.3874  V 48.5331       640 bit
+      93: P    T3 L0 Q1   QP 13   Y 33.2392  U 48.5714  V 49.4398      3160 bit
+      93: P    T3 L0 Q2   QP 11   Y 31.3363  U 47.7901  V 48.2919      2320 bit
+AU    95: P    T3 L0 Q0   QP 15   Y 38.0938  U 49.7399  V 50.2230       112 bit
+      95: P    T3 L0 Q1   QP 13   Y 39.0574  U 50.0256  V 50.5631      2640 bit
+      95: P    T3 L0 Q2   QP 11   Y 38.1317  U 50.1830  V 50.9526       176 bit
+AU   104: P    T0 L0 Q0   QP 10   Y 33.2112  U 49.4144  V 49.9486     35656 bit
+     104: P    T0 L0 Q1   QP  8   Y 34.0178  U 49.5909  V 50.2620     40952 bit
+     104: P    T0 L0 Q2   QP  6   Y 33.1706  U 49.3295  V 50.1638     44792 bit
+AU   100: P    T1 L0 Q0   QP 13   Y 35.4680  U 49.1328  V 48.8304     14952 bit
+     100: P    T1 L0 Q1   QP 11   Y 37.0182  U 49.6874  V 50.2495     18920 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+     100: P    T1 L0 Q2   QP  9   Y 34.1245  U 49.2588  V 49.1184     18104 bit
+AU    98: P    T2 L0 Q0   QP 14   Y 36.5533  U 49.5648  V 49.7431      7400 bit
+      98: P    T2 L0 Q1   QP 12   Y 38.6947  U 50.0108  V 50.3697     10312 bit
+      98: P    T2 L0 Q2   QP 10   Y 34.6236  U 49.8732  V 50.0677      5480 bit
+AU    97: P    T3 L0 Q0   QP 15   Y 37.9556  U 49.7691  V 50.1649       120 bit
+      97: P    T3 L0 Q1   QP 13   Y 39.1958  U 50.0626  V 50.5136      2792 bit
+      97: P    T3 L0 Q2   QP 11   Y 37.9762  U 50.2020  V 50.8962       176 bit
+AU    99: P    T3 L0 Q0   QP 15   Y 34.8927  U 49.2399  V 48.9650       112 bit
+      99: P    T3 L0 Q1   QP 13   Y 36.3511  U 49.6122  V 49.8886      3272 bit
+      99: P    T3 L0 Q2   QP 11   Y 34.3982  U 49.4901  V 49.5202       176 bit
+AU   102: P    T2 L0 Q0   QP 14   Y 32.8809  U 49.0414  V 49.2178      5096 bit
+     102: P    T2 L0 Q1   QP 12   Y 34.6677  U 49.3501  V 49.6676     10520 bit
+     102: P    T2 L0 Q2   QP 10   Y 32.0446  U 48.9389  V 49.2743      1648 bit
+AU   101: P    T3 L0 Q0   QP 15   Y 33.6374  U 48.9453  V 48.5070      1680 bit
+     101: P    T3 L0 Q1   QP 13   Y 34.9554  U 49.3108  V 49.7548      3272 bit
+     101: P    T3 L0 Q2   QP 11   Y 32.1889  U 48.6433  V 48.1912      1280 bit
+AU   103: P    T3 L0 Q0   QP 15   Y 33.2431  U 49.1895  V 49.6159       112 bit
+     103: P    T3 L0 Q1   QP 13   Y 33.8757  U 49.2559  V 49.8475       168 bit
+     103: P    T3 L0 Q2   QP 11   Y 33.1376  U 49.0807  V 49.7736       176 bit
+AU   112: I    T0 L0 Q0   QP 10   Y 50.9900  U 51.8684  V 52.1756    374864 bit
+     112: I    T0 L0 Q1   QP  8   Y 52.7869  U 53.2425  V 53.5710    195304 bit
+     112: I    T0 L0 Q2   QP  6   Y 54.3644  U 56.2600  V 57.1892    125520 bit
+AU   108: P    T1 L0 Q0   QP 13   Y 32.1022  U 48.4668  V 48.3656     19976 bit
+     108: P    T1 L0 Q1   QP 11   Y 32.9841  U 48.7166  V 49.1706     21496 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     108: P    T1 L0 Q2   QP  9   Y 30.9562  U 47.8667  V 47.8609     19544 bit
+AU   106: P    T2 L0 Q0   QP 14   Y 31.9527  U 48.7133  V 49.0166      8240 bit
+     106: P    T2 L0 Q1   QP 12   Y 33.0302  U 48.8246  V 49.3613     10280 bit
+     106: P    T2 L0 Q2   QP 10   Y 30.5416  U 48.1909  V 48.4423      3640 bit
+AU   105: P    T3 L0 Q0   QP 15   Y 32.1358  U 49.0281  V 49.3099      1152 bit
+     105: P    T3 L0 Q1   QP 13   Y 32.8617  U 49.0637  V 49.5408      3200 bit
+     105: P    T3 L0 Q2   QP 11   Y 31.8779  U 48.6996  V 49.3295       176 bit
+AU   107: P    T3 L0 Q0   QP 15   Y 32.1891  U 48.5254  V 48.5815       152 bit
+     107: P    T3 L0 Q1   QP 13   Y 32.7352  U 48.6225  V 49.0586       696 bit
+     107: P    T3 L0 Q2   QP 11   Y 31.2489  U 48.0304  V 48.3752       176 bit
+AU   110: P    T2 L0 Q0   QP 14   Y 36.5702  U 49.3912  V 49.5311      6864 bit
+     110: P    T2 L0 Q1   QP 12   Y 39.3009  U 49.9310  V 50.4386     10656 bit
+     110: P    T2 L0 Q2   QP 10   Y 34.1060  U 49.6473  V 49.8856      2384 bit
+AU   109: P    T3 L0 Q0   QP 15   Y 31.4915  U 48.2682  V 47.8375      2560 bit
+     109: P    T3 L0 Q1   QP 13   Y 32.3442  U 48.4830  V 48.9614      3984 bit
+     109: P    T3 L0 Q2   QP 11   Y 30.0008  U 47.3330  V 47.0499       528 bit
+AU   111: P    T3 L0 Q0   QP 15   Y 38.2816  U 49.7221  V 50.2654       112 bit
+     111: P    T3 L0 Q1   QP 13   Y 39.2649  U 50.0280  V 50.7272      2680 bit
+     111: P    T3 L0 Q2   QP 11   Y 38.3261  U 50.1912  V 51.0158       176 bit
+AU   120: P    T0 L0 Q0   QP 10   Y 34.5430  U 49.3825  V 50.2433     30840 bit
+     120: P    T0 L0 Q1   QP  8   Y 35.5176  U 49.5892  V 50.7120     37984 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     120: P    T0 L0 Q2   QP  6   Y 34.4351  U 49.1891  V 50.6684     41400 bit
+AU   116: P    T1 L0 Q0   QP 13   Y 36.4732  U 49.3187  V 49.2924     16536 bit
+     116: P    T1 L0 Q1   QP 11   Y 37.6174  U 49.7608  V 50.4234     16664 bit
+     116: P    T1 L0 Q2   QP  9   Y 35.5177  U 49.5138  V 49.8651     21560 bit
+AU   114: P    T2 L0 Q0   QP 14   Y 37.5177  U 49.4934  V 49.6945      8904 bit
+     114: P    T2 L0 Q1   QP 12   Y 39.3345  U 49.9128  V 50.4658      9304 bit
+     114: P    T2 L0 Q2   QP 10   Y 34.7416  U 49.7241  V 49.9661      5096 bit
+AU   113: P    T3 L0 Q0   QP 15   Y 38.0900  U 49.7009  V 50.1243       136 bit
+     113: P    T3 L0 Q1   QP 13   Y 39.2277  U 49.9643  V 50.5841      2632 bit
+     113: P    T3 L0 Q2   QP 11   Y 38.1041  U 50.1619  V 50.9461       176 bit
+AU   115: P    T3 L0 Q0   QP 15   Y 35.5937  U 49.3169  V 49.3325       136 bit
+     115: P    T3 L0 Q1   QP 13   Y 37.4127  U 49.6495  V 50.2009      2448 bit
+     115: P    T3 L0 Q2   QP 11   Y 35.1417  U 49.6029  V 49.8646       176 bit
+AU   118: P    T2 L0 Q0   QP 14   Y 33.6729  U 49.1341  V 49.3490      5280 bit
+     118: P    T2 L0 Q1   QP 12   Y 35.7471  U 49.4072  V 50.1086     12512 bit
+     118: P    T2 L0 Q2   QP 10   Y 32.3324  U 48.9590  V 49.4523       840 bit
+AU   117: P    T3 L0 Q0   QP 15   Y 34.5097  U 49.0552  V 49.0254      1208 bit
+     117: P    T3 L0 Q1   QP 13   Y 35.3530  U 49.2953  V 49.8600      3736 bit
+     117: P    T3 L0 Q2   QP 11   Y 33.5401  U 48.9234  V 48.8551       896 bit
+AU   119: P    T3 L0 Q0   QP 15   Y 34.2138  U 49.2306  V 49.8915       112 bit
+     119: P    T3 L0 Q1   QP 13   Y 35.1175  U 49.3162  V 50.2277      2208 bit
+     119: P    T3 L0 Q2   QP 11   Y 33.9401  U 49.1094  V 50.2111       176 bit
+AU   128: I    T0 L0 Q0   QP 10   Y 51.0113  U 51.8571  V 52.1678    375568 bit
+     128: I    T0 L0 Q1   QP  8   Y 52.7877  U 53.2765  V 53.5920    194544 bit
+     128: I    T0 L0 Q2   QP  6   Y 54.3978  U 56.3546  V 57.2700    124784 bit
+AU   124: P    T1 L0 Q0   QP 13   Y 32.9585  U 48.6671  V 48.9889     19144 bit
+     124: P    T1 L0 Q1   QP 11   Y 33.7916  U 48.8695  V 49.9172     20088 bit
+     124: P    T1 L0 Q2   QP  9   Y 31.8210  U 48.0178  V 48.6626     21496 bit
+AU   122: P    T2 L0 Q0   QP 14   Y 32.9207  U 48.7938  V 49.2051      9472 bit
+     122: P    T2 L0 Q1   QP 12   Y 34.1055  U 48.9169  V 49.6992     11120 bit
+     122: P    T2 L0 Q2   QP 10   Y 31.8820  U 48.2852  V 49.2211      7200 bit
+AU   121: P    T3 L0 Q0   QP 15   Y 33.3083  U 49.0050  V 49.7019      2328 bit
+     121: P    T3 L0 Q1   QP 13   Y 34.2542  U 49.0546  V 50.0650      5200 bit
+     121: P    T3 L0 Q2   QP 11   Y 32.7409  U 48.6632  V 49.8725       176 bit
+AU   123: P    T3 L0 Q0   QP 15   Y 32.9414  U 48.6396  V 48.9633       880 bit
+     123: P    T3 L0 Q1   QP 13   Y 33.4921  U 48.7518  V 49.6151      2360 bit
+     123: P    T3 L0 Q2   QP 11   Y 31.7484  U 48.1042  V 48.8464       176 bit
+AU   126: P    T2 L0 Q0   QP 14   Y 36.0625  U 49.3436  V 49.5365      5352 bit
+     126: P    T2 L0 Q1   QP 12   Y 39.2728  U 50.0002  V 50.4816     11160 bit
+     126: P    T2 L0 Q2   QP 10   Y 34.3139  U 49.7208  V 49.9578      2408 bit
+AU   125: P    T3 L0 Q0   QP 15   Y 32.0897  U 48.4202  V 48.4069      1752 bit
+     125: P    T3 L0 Q1   QP 13   Y 32.7755  U 48.5536  V 49.3135      2504 bit
+     125: P    T3 L0 Q2   QP 11   Y 31.0784  U 47.7031  V 48.0202      1912 bit
+AU   127: P    T3 L0 Q0   QP 15   Y 38.3513  U 49.7369  V 50.1912       112 bit
+     127: P    T3 L0 Q1   QP 13   Y 39.0200  U 50.0650  V 50.6528      1696 bit
+     127: P    T3 L0 Q2   QP 11   Y 38.3988  U 50.2394  V 51.0516       176 bit
+AU   136: P    T0 L0 Q0   QP 10   Y 34.7346  U 49.2185  V 50.1976     32648 bit
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     136: P    T0 L0 Q1   QP  8   Y 35.5331  U 49.6190  V 50.8601     38032 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     136: P    T0 L0 Q2   QP  6   Y 34.2894  U 49.1773  V 50.5838     36384 bit
+AU   132: P    T1 L0 Q0   QP 13   Y 36.8383  U 49.3510  V 49.9227     16936 bit
+     132: P    T1 L0 Q1   QP 11   Y 37.4550  U 49.6984  V 50.3763     13840 bit
+     132: P    T1 L0 Q2   QP  9   Y 35.3725  U 49.5150  V 49.8386     21920 bit
+AU   130: P    T2 L0 Q0   QP 14   Y 36.5663  U 49.5152  V 49.5755      6512 bit
+     130: P    T2 L0 Q1   QP 12   Y 39.3137  U 50.0948  V 50.5394     10536 bit
+     130: P    T2 L0 Q2   QP 10   Y 35.0338  U 49.8541  V 50.0071      5160 bit
+AU   129: P    T3 L0 Q0   QP 15   Y 38.3208  U 49.6710  V 50.2352       120 bit
+     129: P    T3 L0 Q1   QP 13   Y 38.6923  U 50.0503  V 50.6712      1080 bit
+     129: P    T3 L0 Q2   QP 11   Y 38.3489  U 50.2155  V 51.0351       176 bit
+AU   131: P    T3 L0 Q0   QP 15   Y 36.7289  U 49.3948  V 49.8208       112 bit
+     131: P    T3 L0 Q1   QP 13   Y 37.2616  U 49.6798  V 50.2808      1352 bit
+     131: P    T3 L0 Q2   QP 11   Y 35.7545  U 49.6861  V 50.0792       176 bit
+AU   134: P    T2 L0 Q0   QP 14   Y 33.6349  U 48.9253  V 49.3447      5952 bit
+     134: P    T2 L0 Q1   QP 12   Y 35.5431  U 49.3770  V 50.1712     11336 bit
+     134: P    T2 L0 Q2   QP 10   Y 32.3065  U 48.7894  V 49.2705      1472 bit
+AU   133: P    T3 L0 Q0   QP 15   Y 33.9711  U 48.9847  V 49.0993       480 bit
+     133: P    T3 L0 Q1   QP 13   Y 35.1532  U 49.3219  V 49.7419      3992 bit
+     133: P    T3 L0 Q2   QP 11   Y 33.1227  U 49.0858  V 48.8754      1064 bit
+AU   135: P    T3 L0 Q0   QP 15   Y 34.2081  U 48.9990  V 49.7511       112 bit
+     135: P    T3 L0 Q1   QP 13   Y 34.9575  U 49.2904  V 50.2191      1352 bit
+     135: P    T3 L0 Q2   QP 11   Y 33.8438  U 49.0006  V 50.1316       176 bit
+AU   144: I    T0 L0 Q0   QP 10   Y 50.9979  U 51.8806  V 52.2049    377056 bit
+     144: I    T0 L0 Q1   QP  8   Y 52.7735  U 53.3058  V 53.5938    195216 bit
+     144: I    T0 L0 Q2   QP  6   Y 54.3461  U 56.2168  V 57.3024    125120 bit
+AU   140: P    T1 L0 Q0   QP 13   Y 32.8734  U 48.2864  V 48.8803     17448 bit
+     140: P    T1 L0 Q1   QP 11   Y 33.6668  U 48.6549  V 49.5574     15168 bit
+     140: P    T1 L0 Q2   QP  9   Y 31.6803  U 47.9450  V 48.4016     21240 bit
+AU   138: P    T2 L0 Q0   QP 14   Y 32.5381  U 48.4997  V 49.0073      7544 bit
+     138: P    T2 L0 Q1   QP 12   Y 34.1043  U 48.9482  V 49.8224     13576 bit
+     138: P    T2 L0 Q2   QP 10   Y 31.0938  U 48.2588  V 48.7922      2040 bit
+AU   137: P    T3 L0 Q0   QP 15   Y 33.1449  U 48.8421  V 49.5954       368 bit
+     137: P    T3 L0 Q1   QP 13   Y 34.0103  U 49.2031  V 50.1855      2928 bit
+     137: P    T3 L0 Q2   QP 11   Y 32.7345  U 48.7471  V 49.7919       176 bit
+AU   139: P    T3 L0 Q0   QP 15   Y 32.6515  U 48.3242  V 48.9436       472 bit
+     139: P    T3 L0 Q1   QP 13   Y 33.4485  U 48.6828  V 49.4922      1128 bit
+     139: P    T3 L0 Q2   QP 11   Y 31.8001  U 48.0702  V 48.8088       176 bit
+AU   142: P    T2 L0 Q0   QP 14   Y 36.3660  U 49.4217  V 49.5985      6152 bit
+     142: P    T2 L0 Q1   QP 12   Y 39.3255  U 49.9926  V 50.3628     10224 bit
+     142: P    T2 L0 Q2   QP 10   Y 33.9710  U 49.6854  V 49.9486       768 bit
+AU   141: P    T3 L0 Q0   QP 15   Y 32.2029  U 48.3497  V 48.6566      1848 bit
+     141: P    T3 L0 Q1   QP 13   Y 32.9351  U 48.4544  V 49.1432      5120 bit
+     141: P    T3 L0 Q2   QP 11   Y 30.6951  U 47.6271  V 47.6884       600 bit
+AU   143: P    T3 L0 Q0   QP 15   Y 38.6887  U 49.7056  V 50.3818       112 bit
+     143: P    T3 L0 Q1   QP 13   Y 38.7276  U 50.1137  V 50.7739       168 bit
+     143: P    T3 L0 Q2   QP 11   Y 38.7380  U 50.1819  V 51.2064       176 bit
+AU   152: P    T0 L0 Q0   QP 10   Y 34.6767  U 49.2437  V 50.1791     31016 bit
+     152: P    T0 L0 Q1   QP  8   Y 35.3057  U 49.6597  V 50.7525     33120 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     152: P    T0 L0 Q2   QP  6   Y 34.3058  U 49.2721  V 50.6497     34792 bit
+AU   148: P    T1 L0 Q0   QP 13   Y 36.2035  U 49.3325  V 49.6918     16696 bit
+     148: P    T1 L0 Q1   QP 11   Y 37.3107  U 49.5774  V 49.7999     14208 bit
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     148: P    T1 L0 Q2   QP  9   Y 34.8786  U 49.4560  V 49.7122     17736 bit
+AU   146: P    T2 L0 Q0   QP 14   Y 36.5324  U 49.3875  V 49.5545      6272 bit
+     146: P    T2 L0 Q1   QP 12   Y 39.2686  U 49.9839  V 50.3977     10280 bit
+     146: P    T2 L0 Q2   QP 10   Y 34.4289  U 49.6666  V 49.9604      2888 bit
+AU   145: P    T3 L0 Q0   QP 15   Y 38.6711  U 49.6403  V 50.2822       120 bit
+     145: P    T3 L0 Q1   QP 13   Y 38.8930  U 50.0981  V 50.6506       640 bit
+     145: P    T3 L0 Q2   QP 11   Y 38.6959  U 50.1998  V 51.0944       176 bit
+AU   147: P    T3 L0 Q0   QP 15   Y 35.9368  U 49.3120  V 49.5600       112 bit
+     147: P    T3 L0 Q1   QP 13   Y 37.1851  U 49.6413  V 49.9606       168 bit
+     147: P    T3 L0 Q2   QP 11   Y 35.5897  U 49.7233  V 50.0900       176 bit
+AU   150: P    T2 L0 Q0   QP 14   Y 33.7980  U 48.9781  V 49.3654      5400 bit
+     150: P    T2 L0 Q1   QP 12   Y 35.4540  U 49.3891  V 50.0058     10688 bit
+     150: P    T2 L0 Q2   QP 10   Y 32.3695  U 48.8468  V 49.3563       176 bit
+AU   149: P    T3 L0 Q0   QP 15   Y 34.3873  U 49.0688  V 49.2503      1648 bit
+     149: P    T3 L0 Q1   QP 13   Y 35.0554  U 49.1876  V 49.1773      3584 bit
+     149: P    T3 L0 Q2   QP 11   Y 32.8860  U 48.8999  V 48.8383      1336 bit
+AU   151: P    T3 L0 Q0   QP 15   Y 34.3078  U 49.0330  V 49.8014       112 bit
+     151: P    T3 L0 Q1   QP 13   Y 34.8016  U 49.3144  V 50.2164       168 bit
+     151: P    T3 L0 Q2   QP 11   Y 33.9738  U 49.0580  V 50.2064       176 bit
+AU   160: I    T0 L0 Q0   QP 10   Y 51.0032  U 51.8838  V 52.2511    375280 bit
+     160: I    T0 L0 Q1   QP  8   Y 52.7520  U 53.3352  V 53.5740    195288 bit
+     160: I    T0 L0 Q2   QP  6   Y 54.3481  U 56.1959  V 57.2100    125584 bit
+AU   156: P    T1 L0 Q0   QP 13   Y 32.9880  U 48.3488  V 48.7908     17632 bit
+     156: P    T1 L0 Q1   QP 11   Y 33.7495  U 48.5879  V 49.1917     16896 bit
+     156: P    T1 L0 Q2   QP  9   Y 31.8961  U 48.0598  V 48.6479     21248 bit
+AU   154: P    T2 L0 Q0   QP 14   Y 32.2802  U 48.5521  V 49.0660      7144 bit
+     154: P    T2 L0 Q1   QP 12   Y 33.9975  U 48.8874  V 49.8012     11840 bit
+     154: P    T2 L0 Q2   QP 10   Y 31.3876  U 48.3190  V 49.0645      3384 bit
+AU   153: P    T3 L0 Q0   QP 15   Y 33.1915  U 48.8450  V 49.6432       552 bit
+     153: P    T3 L0 Q1   QP 13   Y 33.7399  U 49.0903  V 50.0538      2048 bit
+     153: P    T3 L0 Q2   QP 11   Y 32.7859  U 48.7094  V 49.8574       176 bit
+AU   155: P    T3 L0 Q0   QP 15   Y 32.8157  U 48.4166  V 48.9994       112 bit
+     155: P    T3 L0 Q1   QP 13   Y 33.5771  U 48.5963  V 49.3203      1480 bit
+     155: P    T3 L0 Q2   QP 11   Y 31.9581  U 48.1293  V 48.9752       176 bit
+AU   158: P    T2 L0 Q0   QP 14   Y 36.7968  U 49.6173  V 49.8244      7944 bit
+     158: P    T2 L0 Q1   QP 12   Y 38.6195  U 50.0458  V 50.5523      9336 bit
+     158: P    T2 L0 Q2   QP 10   Y 34.5960  U 49.7751  V 50.1048      4440 bit
+AU   157: P    T3 L0 Q0   QP 15   Y 31.9040  U 48.0587  V 48.2371       888 bit
+     157: P    T3 L0 Q1   QP 13   Y 32.9084  U 48.2923  V 48.8468      5152 bit
+     157: P    T3 L0 Q2   QP 11   Y 30.9738  U 47.6528  V 48.1666      1080 bit
+AU   159: P    T3 L0 Q0   QP 15   Y 37.8291  U 49.8254  V 50.2389       112 bit
+     159: P    T3 L0 Q1   QP 13   Y 39.1968  U 50.0932  V 50.6592      2872 bit
+     159: P    T3 L0 Q2   QP 11   Y 37.8623  U 50.1948  V 51.0836       176 bit
+AU   168: P    T0 L0 Q0   QP 10   Y 34.3746  U 49.2512  V 50.3048     28784 bit
+     168: P    T0 L0 Q1   QP  8   Y 35.2425  U 49.5282  V 50.7058     33648 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     168: P    T0 L0 Q2   QP  6   Y 34.0572  U 49.1582  V 50.5953     35144 bit
+AU   164: P    T1 L0 Q0   QP 13   Y 36.5374  U 49.4132  V 49.6255     15216 bit
+     164: P    T1 L0 Q1   QP 11   Y 37.4146  U 49.7117  V 50.0527     14176 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     164: P    T1 L0 Q2   QP  9   Y 35.3195  U 49.4995  V 49.7966     21304 bit
+AU   162: P    T2 L0 Q0   QP 14   Y 37.1337  U 49.5481  V 49.9737      7816 bit
+     162: P    T2 L0 Q1   QP 12   Y 38.9203  U 50.0127  V 50.5709      9360 bit
+     162: P    T2 L0 Q2   QP 10   Y 34.5933  U 49.7026  V 50.0787      3856 bit
+AU   161: P    T3 L0 Q0   QP 15   Y 38.1810  U 49.7521  V 50.3729       120 bit
+     161: P    T3 L0 Q1   QP 13   Y 39.2483  U 50.1056  V 50.7207      2384 bit
+     161: P    T3 L0 Q2   QP 11   Y 38.2119  U 50.1899  V 51.0418       176 bit
+AU   163: P    T3 L0 Q0   QP 15   Y 35.9204  U 49.4291  V 49.6832       112 bit
+     163: P    T3 L0 Q1   QP 13   Y 37.4463  U 49.7335  V 50.2252      3616 bit
+     163: P    T3 L0 Q2   QP 11   Y 35.1878  U 49.6197  V 50.1070       176 bit
+AU   166: P    T2 L0 Q0   QP 14   Y 33.7591  U 49.0279  V 49.3565      6368 bit
+     166: P    T2 L0 Q1   QP 12   Y 35.2882  U 49.3474  V 49.9476      9296 bit
+     166: P    T2 L0 Q2   QP 10   Y 32.6099  U 48.8788  V 49.4910      2720 bit
+AU   165: P    T3 L0 Q0   QP 15   Y 34.2184  U 49.1367  V 49.1688      1816 bit
+     165: P    T3 L0 Q1   QP 13   Y 35.2212  U 49.3538  V 49.5753      3856 bit
+     165: P    T3 L0 Q2   QP 11   Y 32.9614  U 48.9142  V 48.8442       672 bit
+AU   167: P    T3 L0 Q0   QP 15   Y 33.9798  U 49.1014  V 49.8393       112 bit
+     167: P    T3 L0 Q1   QP 13   Y 34.8377  U 49.3059  V 50.1621      1448 bit
+     167: P    T3 L0 Q2   QP 11   Y 33.6744  U 48.9923  V 50.1559       176 bit
+AU   176: I    T0 L0 Q0   QP 10   Y 51.0163  U 51.9218  V 52.1470    375616 bit
+     176: I    T0 L0 Q1   QP  8   Y 52.7665  U 53.3273  V 53.5328    194112 bit
+     176: I    T0 L0 Q2   QP  6   Y 54.3851  U 56.2734  V 57.1933    125344 bit
+AU   172: P    T1 L0 Q0   QP 13   Y 32.5810  U 48.5934  V 48.7522     16640 bit
+     172: P    T1 L0 Q1   QP 11   Y 33.7946  U 48.8206  V 49.7374     18800 bit
+     172: P    T1 L0 Q2   QP  9   Y 31.5359  U 47.7446  V 48.5280     16200 bit
+AU   170: P    T2 L0 Q0   QP 14   Y 32.2979  U 48.6423  V 49.1909      6144 bit
+     170: P    T2 L0 Q1   QP 12   Y 33.8439  U 48.9085  V 49.7936     13888 bit
+     170: P    T2 L0 Q2   QP 10   Y 31.3991  U 48.1662  V 48.9548      2912 bit
+AU   169: P    T3 L0 Q0   QP 15   Y 33.0054  U 48.8539  V 49.6783       440 bit
+     169: P    T3 L0 Q1   QP 13   Y 33.8819  U 49.1165  V 50.0219      2544 bit
+     169: P    T3 L0 Q2   QP 11   Y 32.7341  U 48.6118  V 49.8062       176 bit
+AU   171: P    T3 L0 Q0   QP 15   Y 32.6004  U 48.5830  V 49.0237       112 bit
+     171: P    T3 L0 Q1   QP 13   Y 33.5286  U 48.8056  V 49.5351       168 bit
+     171: P    T3 L0 Q2   QP 11   Y 31.9314  U 47.9836  V 49.0015       176 bit
+AU   174: P    T2 L0 Q0   QP 14   Y 36.5325  U 49.4277  V 49.6422      6592 bit
+     174: P    T2 L0 Q1   QP 12   Y 38.9308  U 49.8686  V 50.5658     10576 bit
+     174: P    T2 L0 Q2   QP 10   Y 34.5707  U 49.5777  V 50.0771      2712 bit
+AU   173: P    T3 L0 Q0   QP 15   Y 32.0463  U 48.1968  V 48.5938      2416 bit
+     173: P    T3 L0 Q1   QP 13   Y 32.9538  U 48.4742  V 49.3547      3184 bit
+     173: P    T3 L0 Q2   QP 11   Y 30.6742  U 47.3933  V 47.9247       928 bit
+AU   175: P    T3 L0 Q0   QP 15   Y 38.8866  U 49.7166  V 50.2086       112 bit
+     175: P    T3 L0 Q1   QP 13   Y 38.9084  U 49.9847  V 50.7036       168 bit
+     175: P    T3 L0 Q2   QP 11   Y 38.9106  U 50.1145  V 51.0758       176 bit
+AU   184: P    T0 L0 Q0   QP 10   Y 34.4325  U 49.3928  V 50.2975     29176 bit
+     184: P    T0 L0 Q1   QP  8   Y 35.4952  U 49.7001  V 50.8027     41320 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     184: P    T0 L0 Q2   QP  6   Y 34.2955  U 49.2543  V 50.7551     38776 bit
+AU   180: P    T1 L0 Q0   QP 13   Y 36.3260  U 49.3800  V 49.3359     16632 bit
+     180: P    T1 L0 Q1   QP 11   Y 37.6796  U 49.7723  V 50.4409     17736 bit
+     180: P    T1 L0 Q2   QP  9   Y 34.4919  U 49.2443  V 49.5481     18200 bit
+AU   178: P    T2 L0 Q0   QP 14   Y 36.4608  U 49.5450  V 49.8178      5544 bit
+     178: P    T2 L0 Q1   QP 12   Y 38.8350  U 49.9007  V 50.5478      8664 bit
+     178: P    T2 L0 Q2   QP 10   Y 34.8121  U 49.6950  V 50.3651      3592 bit
+AU   177: P    T3 L0 Q0   QP 15   Y 38.8167  U 49.7446  V 50.2230       120 bit
+     177: P    T3 L0 Q1   QP 13   Y 38.8606  U 49.9987  V 50.6409       168 bit
+     177: P    T3 L0 Q2   QP 11   Y 38.8539  U 50.1654  V 51.1131       176 bit
+AU   179: P    T3 L0 Q0   QP 15   Y 36.2393  U 49.3192  V 49.4621       112 bit
+     179: P    T3 L0 Q1   QP 13   Y 37.2655  U 49.7491  V 50.2366      1368 bit
+     179: P    T3 L0 Q2   QP 11   Y 35.2334  U 49.4460  V 49.9172       176 bit
+AU   182: P    T2 L0 Q0   QP 14   Y 33.8148  U 48.9216  V 49.2234      6384 bit
+     182: P    T2 L0 Q1   QP 12   Y 35.5142  U 49.3932  V 50.0881     10624 bit
+     182: P    T2 L0 Q2   QP 10   Y 32.4690  U 48.8421  V 49.3983      1456 bit
+AU   181: P    T3 L0 Q0   QP 15   Y 34.2409  U 49.0275  V 48.7740       976 bit
+     181: P    T3 L0 Q1   QP 13   Y 35.0832  U 49.3350  V 49.8381      1720 bit
+     181: P    T3 L0 Q2   QP 11   Y 32.6034  U 48.7548  V 48.6083       904 bit
+AU   183: P    T3 L0 Q0   QP 15   Y 33.8907  U 49.2189  V 49.7613       112 bit
+     183: P    T3 L0 Q1   QP 13   Y 35.0353  U 49.4259  V 50.1542      2168 bit
+     183: P    T3 L0 Q2   QP 11   Y 33.7742  U 49.1335  V 50.1918       176 bit
+AU   192: I    T0 L0 Q0   QP 10   Y 51.0402  U 51.9054  V 52.2555    374528 bit
+     192: I    T0 L0 Q1   QP  8   Y 52.7556  U 53.2984  V 53.5554    193456 bit
+     192: I    T0 L0 Q2   QP  6   Y 54.3375  U 56.3308  V 57.2113    125432 bit
+AU   188: P    T1 L0 Q0   QP 13   Y 32.4686  U 48.5632  V 48.9741     18008 bit
+     188: P    T1 L0 Q1   QP 11   Y 33.7677  U 48.7288  V 49.6442     19360 bit
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     188: P    T1 L0 Q2   QP  9   Y 31.7601  U 47.9983  V 48.7962     22264 bit
+AU   186: P    T2 L0 Q0   QP 14   Y 32.2163  U 48.6287  V 49.2211      5784 bit
+     186: P    T2 L0 Q1   QP 12   Y 33.8828  U 48.8964  V 49.8674     11120 bit
+     186: P    T2 L0 Q2   QP 10   Y 31.5049  U 48.3087  V 49.3183      3208 bit
+AU   185: P    T3 L0 Q0   QP 15   Y 32.9401  U 48.9107  V 49.7466       120 bit
+     185: P    T3 L0 Q1   QP 13   Y 34.0624  U 49.0758  V 50.1630      2560 bit
+     185: P    T3 L0 Q2   QP 11   Y 32.8402  U 48.6760  V 50.0346       176 bit
+AU   187: P    T3 L0 Q0   QP 15   Y 32.4867  U 48.6373  V 49.2073       112 bit
+     187: P    T3 L0 Q1   QP 13   Y 33.5585  U 48.7127  V 49.6176      1192 bit
+     187: P    T3 L0 Q2   QP 11   Y 31.9935  U 48.2459  V 49.2106       176 bit
+AU   190: P    T2 L0 Q0   QP 14   Y 36.6902  U 49.4670  V 49.6483      6624 bit
+     190: P    T2 L0 Q1   QP 12   Y 38.8281  U 49.9437  V 50.5017      9744 bit
+     190: P    T2 L0 Q2   QP 10   Y 34.6054  U 49.6852  V 50.0570      2272 bit
+AU   189: P    T3 L0 Q0   QP 15   Y 32.2652  U 48.5378  V 48.5756      4584 bit
+     189: P    T3 L0 Q1   QP 13   Y 32.8317  U 48.5156  V 49.0248      2624 bit
+     189: P    T3 L0 Q2   QP 11   Y 30.9433  U 47.8106  V 48.0707      2288 bit
+AU   191: P    T3 L0 Q0   QP 15   Y 38.7639  U 49.7494  V 50.3563       112 bit
+     191: P    T3 L0 Q1   QP 13   Y 39.7114  U 50.0392  V 50.8192      2232 bit
+     191: P    T3 L0 Q2   QP 11   Y 38.8031  U 50.1742  V 51.1548       176 bit
+AU   200: P    T0 L0 Q0   QP 10   Y 34.3475  U 49.4277  V 50.3927     30184 bit
+     200: P    T0 L0 Q1   QP  8   Y 35.3774  U 49.6408  V 50.7385     39856 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     200: P    T0 L0 Q2   QP  6   Y 33.9126  U 49.3745  V 50.8179     37952 bit
+AU   196: P    T1 L0 Q0   QP 13   Y 36.5793  U 49.4033  V 49.6272     19808 bit
+     196: P    T1 L0 Q1   QP 11   Y 37.4022  U 49.7268  V 50.2938     14896 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+     196: P    T1 L0 Q2   QP  9   Y 34.7878  U 49.3259  V 49.8360     20864 bit
+AU   194: P    T2 L0 Q0   QP 14   Y 36.6874  U 49.5023  V 49.7154      6368 bit
+     194: P    T2 L0 Q1   QP 12   Y 38.9884  U 49.9372  V 50.5418     10472 bit
+     194: P    T2 L0 Q2   QP 10   Y 34.2991  U 49.6800  V 49.9538       984 bit
+AU   193: P    T3 L0 Q0   QP 15   Y 38.7646  U 49.7436  V 50.4101       120 bit
+     193: P    T3 L0 Q1   QP 13   Y 39.5726  U 50.0201  V 50.7544      2176 bit
+     193: P    T3 L0 Q2   QP 11   Y 38.7948  U 50.1662  V 51.1209       176 bit
+AU   195: P    T3 L0 Q0   QP 15   Y 36.3226  U 49.4070  V 49.7417       112 bit
+     195: P    T3 L0 Q1   QP 13   Y 37.4355  U 49.7231  V 50.2564      2384 bit
+     195: P    T3 L0 Q2   QP 11   Y 35.2867  U 49.5386  V 50.1400       176 bit
+AU   198: P    T2 L0 Q0   QP 14   Y 33.6908  U 48.9992  V 49.3535      7088 bit
+     198: P    T2 L0 Q1   QP 12   Y 35.4732  U 49.4435  V 50.1981     12256 bit
+     198: P    T2 L0 Q2   QP 10   Y 32.7924  U 48.9513  V 49.5700      2160 bit
+AU   197: P    T3 L0 Q0   QP 15   Y 34.3220  U 49.1143  V 49.0752      1512 bit
+     197: P    T3 L0 Q1   QP 13   Y 35.2446  U 49.3857  V 49.7112      4800 bit
+     197: P    T3 L0 Q2   QP 11   Y 32.7648  U 48.8599  V 48.9754       648 bit
+AU   199: P    T3 L0 Q0   QP 15   Y 33.7495  U 49.1458  V 49.9356       112 bit
+     199: P    T3 L0 Q1   QP 13   Y 34.6909  U 49.2663  V 50.1827      1624 bit
+     199: P    T3 L0 Q2   QP 11   Y 33.7246  U 49.1333  V 50.2943       176 bit
+AU   208: I    T0 L0 Q0   QP 10   Y 51.0093  U 51.9206  V 52.1617    373808 bit
+     208: I    T0 L0 Q1   QP  8   Y 52.7686  U 53.3363  V 53.5363    194520 bit
+     208: I    T0 L0 Q2   QP  6   Y 54.3355  U 56.2245  V 57.0829    124832 bit
+AU   204: P    T1 L0 Q0   QP 13   Y 32.5853  U 48.6020  V 49.1313     17512 bit
+     204: P    T1 L0 Q1   QP 11   Y 33.5926  U 48.7250  V 49.7302     15912 bit
+     204: P    T1 L0 Q2   QP  9   Y 31.5868  U 48.1549  V 48.9259     22288 bit
+AU   202: P    T2 L0 Q0   QP 14   Y 32.4112  U 48.7600  V 49.4296      6888 bit
+     202: P    T2 L0 Q1   QP 12   Y 33.6706  U 48.8618  V 49.7171     10664 bit
+     202: P    T2 L0 Q2   QP 10   Y 31.2623  U 48.4219  V 49.3948      3944 bit
+AU   201: P    T3 L0 Q0   QP 15   Y 33.0385  U 49.1653  V 49.9325       376 bit
+     201: P    T3 L0 Q1   QP 13   Y 34.0722  U 49.1740  V 50.1395      2280 bit
+     201: P    T3 L0 Q2   QP 11   Y 32.4114  U 48.8960  V 50.1148       176 bit
+AU   203: P    T3 L0 Q0   QP 15   Y 32.7087  U 48.6479  V 49.2441      1104 bit
+     203: P    T3 L0 Q1   QP 13   Y 33.5993  U 48.7653  V 49.6180       784 bit
+     203: P    T3 L0 Q2   QP 11   Y 31.7451  U 48.2964  V 49.2712       176 bit
+AU   206: P    T2 L0 Q0   QP 14   Y 36.5035  U 49.4864  V 49.7063      5296 bit
+     206: P    T2 L0 Q1   QP 12   Y 38.7022  U 49.8871  V 50.4488      9624 bit
+     206: P    T2 L0 Q2   QP 10   Y 34.7946  U 49.6408  V 50.1048      2992 bit
+AU   205: P    T3 L0 Q0   QP 15   Y 31.9727  U 48.4157  V 48.8448      2632 bit
+     205: P    T3 L0 Q1   QP 13   Y 32.8006  U 48.5128  V 49.3266      4376 bit
+     205: P    T3 L0 Q2   QP 11   Y 30.8057  U 47.8591  V 48.2326      2144 bit
+AU   207: P    T3 L0 Q0   QP 15   Y 38.5703  U 49.7873  V 50.3408       112 bit
+     207: P    T3 L0 Q1   QP 13   Y 39.6798  U 50.0533  V 50.7469      2464 bit
+     207: P    T3 L0 Q2   QP 11   Y 38.6047  U 50.1736  V 51.0724       176 bit
+AU   216: P    T0 L0 Q0   QP 10   Y 34.2679  U 49.3948  V 50.2983     31104 bit
+     216: P    T0 L0 Q1   QP  8   Y 35.2486  U 49.5969  V 50.8329     39568 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     216: P    T0 L0 Q2   QP  6   Y 34.2047  U 49.3635  V 50.8201     40192 bit
+AU   212: P    T1 L0 Q0   QP 13   Y 35.9738  U 49.2381  V 49.4351     14320 bit
+     212: P    T1 L0 Q1   QP 11   Y 37.7709  U 49.7283  V 50.4520     16168 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     212: P    T1 L0 Q2   QP  9   Y 34.6651  U 49.2494  V 49.7325     14056 bit
+AU   210: P    T2 L0 Q0   QP 14   Y 36.8889  U 49.5143  V 49.8176      6064 bit
+     210: P    T2 L0 Q1   QP 12   Y 38.8427  U 49.9737  V 50.4884      9368 bit
+     210: P    T2 L0 Q2   QP 10   Y 34.7538  U 49.7270  V 50.1731      2064 bit
+AU   209: P    T3 L0 Q0   QP 15   Y 38.8337  U 49.8017  V 50.4133       120 bit
+     209: P    T3 L0 Q1   QP 13   Y 39.3570  U 50.0970  V 50.8166      1152 bit
+     209: P    T3 L0 Q2   QP 11   Y 38.8658  U 50.1915  V 51.2012       176 bit
+AU   211: P    T3 L0 Q0   QP 15   Y 36.1473  U 49.2929  V 49.6478       112 bit
+     211: P    T3 L0 Q1   QP 13   Y 37.0917  U 49.5985  V 50.2064       864 bit
+     211: P    T3 L0 Q2   QP 11   Y 35.3939  U 49.4477  V 50.1360       176 bit
+AU   214: P    T2 L0 Q0   QP 14   Y 33.3641  U 49.0952  V 49.4105      4040 bit
+     214: P    T2 L0 Q1   QP 12   Y 35.4957  U 49.3731  V 50.2867     11640 bit
+     214: P    T2 L0 Q2   QP 10   Y 32.8683  U 48.9300  V 49.5011      2000 bit
+AU   213: P    T3 L0 Q0   QP 15   Y 34.6618  U 49.1017  V 49.5254      2536 bit
+     213: P    T3 L0 Q1   QP 13   Y 35.5579  U 49.3379  V 49.9921      2528 bit
+     213: P    T3 L0 Q2   QP 11   Y 32.8954  U 48.8500  V 49.0794      1088 bit
+AU   215: P    T3 L0 Q0   QP 15   Y 34.0338  U 49.0984  V 49.7422       112 bit
+     215: P    T3 L0 Q1   QP 13   Y 34.7605  U 49.2167  V 50.1089       168 bit
+     215: P    T3 L0 Q2   QP 11   Y 34.0270  U 49.0764  V 50.2372       176 bit
+AU   224: I    T0 L0 Q0   QP 10   Y 50.9922  U 51.8474  V 52.3095    372552 bit
+     224: I    T0 L0 Q1   QP  8   Y 52.7598  U 53.2236  V 53.6174    193880 bit
+     224: I    T0 L0 Q2   QP  6   Y 54.3344  U 56.2645  V 57.1262    125120 bit
+AU   220: P    T1 L0 Q0   QP 13   Y 32.2399  U 48.4199  V 48.9060     16296 bit
+     220: P    T1 L0 Q1   QP 11   Y 33.2846  U 48.6885  V 49.6447     17664 bit
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     220: P    T1 L0 Q2   QP  9   Y 31.5299  U 48.1286  V 48.7372     21600 bit
+AU   218: P    T2 L0 Q0   QP 14   Y 31.9753  U 48.6514  V 49.4340      5936 bit
+     218: P    T2 L0 Q1   QP 12   Y 33.5999  U 48.9023  V 49.9372     10576 bit
+     218: P    T2 L0 Q2   QP 10   Y 31.2834  U 48.4863  V 49.5129      2960 bit
+AU   217: P    T3 L0 Q0   QP 15   Y 32.8735  U 48.9833  V 49.8294       120 bit
+     217: P    T3 L0 Q1   QP 13   Y 33.8759  U 49.1139  V 50.2688      2136 bit
+     217: P    T3 L0 Q2   QP 11   Y 32.7733  U 48.8468  V 50.1600       176 bit
+AU   219: P    T3 L0 Q0   QP 15   Y 32.2127  U 48.4641  V 48.9652       112 bit
+     219: P    T3 L0 Q1   QP 13   Y 33.1970  U 48.6135  V 49.4658      1440 bit
+     219: P    T3 L0 Q2   QP 11   Y 31.6531  U 48.2636  V 48.9906       176 bit
+AU   222: P    T2 L0 Q0   QP 14   Y 36.5206  U 49.4224  V 49.8638      5376 bit
+     222: P    T2 L0 Q1   QP 12   Y 38.8842  U 50.0100  V 50.6345      9000 bit
+     222: P    T2 L0 Q2   QP 10   Y 34.3996  U 49.7300  V 50.2017       776 bit
+AU   221: P    T3 L0 Q0   QP 15   Y 31.9451  U 48.2117  V 48.9348      3464 bit
+     221: P    T3 L0 Q1   QP 13   Y 32.6158  U 48.4449  V 49.3259      4064 bit
+     221: P    T3 L0 Q2   QP 11   Y 30.6726  U 47.8216  V 48.1657      1136 bit
+AU   223: P    T3 L0 Q0   QP 15   Y 38.8994  U 49.6928  V 50.4908       112 bit
+     223: P    T3 L0 Q1   QP 13   Y 39.4963  U 50.0238  V 50.8933      1384 bit
+     223: P    T3 L0 Q2   QP 11   Y 38.9406  U 50.1855  V 51.1873       176 bit
+AU   232: P    T0 L0 Q0   QP 10   Y 34.1260  U 49.1795  V 50.2517     29448 bit
+     232: P    T0 L0 Q1   QP  8   Y 35.3842  U 49.5469  V 50.8278     41208 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     232: P    T0 L0 Q2   QP  6   Y 34.0672  U 49.2768  V 50.7005     37280 bit
+AU   228: P    T1 L0 Q0   QP 13   Y 36.1734  U 49.2996  V 49.7833     15784 bit
+     228: P    T1 L0 Q1   QP 11   Y 37.3101  U 49.6401  V 50.3349     13880 bit
+     228: P    T1 L0 Q2   QP  9   Y 34.6723  U 49.3524  V 49.5223     16440 bit
+AU   226: P    T2 L0 Q0   QP 14   Y 36.2306  U 49.4988  V 49.8704      3864 bit
+     226: P    T2 L0 Q1   QP 12   Y 39.0775  U 49.9769  V 50.5826      9816 bit
+     226: P    T2 L0 Q2   QP 10   Y 35.0230  U 49.7931  V 50.2893      2880 bit
+AU   225: P    T3 L0 Q0   QP 15   Y 39.2082  U 49.7275  V 50.4231       120 bit
+     225: P    T3 L0 Q1   QP 13   Y 39.3009  U 50.1035  V 50.7865       312 bit
+     225: P    T3 L0 Q2   QP 11   Y 39.2514  U 50.1747  V 51.1814       176 bit
+AU   227: P    T3 L0 Q0   QP 15   Y 36.4450  U 49.3845  V 49.9028       112 bit
+     227: P    T3 L0 Q1   QP 13   Y 37.2644  U 49.6597  V 50.2486       168 bit
+     227: P    T3 L0 Q2   QP 11   Y 35.4467  U 49.5719  V 50.0021       176 bit
+AU   230: P    T2 L0 Q0   QP 14   Y 33.8619  U 48.9775  V 49.6127      3520 bit
+     230: P    T2 L0 Q1   QP 12   Y 35.2600  U 49.3836  V 50.1789      8352 bit
+     230: P    T2 L0 Q2   QP 10   Y 32.6768  U 48.8522  V 49.4936       920 bit
+AU   229: P    T3 L0 Q0   QP 15   Y 34.5955  U 49.1826  V 49.7171      1784 bit
+     229: P    T3 L0 Q1   QP 13   Y 35.5764  U 49.3433  V 50.0111      5080 bit
+     229: P    T3 L0 Q2   QP 11   Y 32.8259  U 48.8353  V 48.6337       800 bit
+AU   231: P    T3 L0 Q0   QP 15   Y 34.1022  U 48.9900  V 49.8538       112 bit
+     231: P    T3 L0 Q1   QP 13   Y 35.1670  U 49.2712  V 50.2380      2088 bit
+     231: P    T3 L0 Q2   QP 11   Y 33.7760  U 49.0814  V 50.1455       176 bit
+AU   240: I    T0 L0 Q0   QP 10   Y 50.9845  U 51.9128  V 52.2653    370304 bit
+     240: I    T0 L0 Q1   QP  8   Y 52.7485  U 53.3080  V 53.6741    194384 bit
+     240: I    T0 L0 Q2   QP  6   Y 54.3378  U 56.3014  V 57.3138    124792 bit
+AU   236: P    T1 L0 Q0   QP 13   Y 32.5111  U 48.6015  V 49.0512     20448 bit
+     236: P    T1 L0 Q1   QP 11   Y 33.6945  U 48.7437  V 49.8350     20232 bit
+     236: P    T1 L0 Q2   QP  9   Y 31.4594  U 48.1385  V 48.8583     19616 bit
+AU   234: P    T2 L0 Q0   QP 14   Y 32.0160  U 48.6269  V 49.2450      4416 bit
+     234: P    T2 L0 Q1   QP 12   Y 33.8847  U 48.9496  V 49.8541     10872 bit
+     234: P    T2 L0 Q2   QP 10   Y 31.5631  U 48.4565  V 49.4022      1552 bit
+AU   233: P    T3 L0 Q0   QP 15   Y 33.1499  U 48.8464  V 49.7966      1560 bit
+     233: P    T3 L0 Q1   QP 13   Y 33.8696  U 49.0539  V 50.1915       536 bit
+     233: P    T3 L0 Q2   QP 11   Y 32.9331  U 48.7471  V 50.1400       176 bit
+AU   235: P    T3 L0 Q0   QP 15   Y 32.6154  U 48.5872  V 49.2568       384 bit
+     235: P    T3 L0 Q1   QP 13   Y 33.5593  U 48.6264  V 49.6185       168 bit
+     235: P    T3 L0 Q2   QP 11   Y 31.9741  U 48.2712  V 49.1580       176 bit
+AU   238: P    T2 L0 Q0   QP 14   Y 36.4738  U 49.5543  V 49.9276      5216 bit
+     238: P    T2 L0 Q1   QP 12   Y 38.7072  U 50.0447  V 50.7163      9256 bit
+     238: P    T2 L0 Q2   QP 10   Y 34.7192  U 49.7526  V 50.3181      1064 bit
+AU   237: P    T3 L0 Q0   QP 15   Y 31.9189  U 48.3996  V 48.7121      1784 bit
+     237: P    T3 L0 Q1   QP 13   Y 32.7459  U 48.4932  V 49.5292      1016 bit
+     237: P    T3 L0 Q2   QP 11   Y 30.3870  U 47.6757  V 48.0581       176 bit
+AU   239: P    T3 L0 Q0   QP 15   Y 39.0138  U 49.7828  V 50.4555       112 bit
+     239: P    T3 L0 Q1   QP 13   Y 39.5625  U 50.0774  V 50.9255      1344 bit
+     239: P    T3 L0 Q2   QP 11   Y 39.0528  U 50.2289  V 51.2416       176 bit
+AU   248: P    T0 L0 Q0   QP 10   Y 34.2092  U 49.3239  V 50.0105     31992 bit
+     248: P    T0 L0 Q1   QP  8   Y 35.2388  U 49.6634  V 50.7341     41488 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     248: P    T0 L0 Q2   QP  6   Y 34.0085  U 49.1519  V 50.6092     37744 bit
+AU   244: P    T1 L0 Q0   QP 13   Y 35.9995  U 49.1743  V 49.2708     17336 bit
+     244: P    T1 L0 Q1   QP 11   Y 37.5233  U 49.7233  V 50.6369     18264 bit
+     244: P    T1 L0 Q2   QP  9   Y 34.4037  U 49.2183  V 49.4842     18680 bit
+AU   242: P    T2 L0 Q0   QP 14   Y 36.6449  U 49.3681  V 49.5581      5480 bit
+     242: P    T2 L0 Q1   QP 12   Y 38.6202  U 49.7813  V 49.9680      8544 bit
+     242: P    T2 L0 Q2   QP 10   Y 34.6304  U 49.5441  V 49.7201      1008 bit
+AU   241: P    T3 L0 Q0   QP 15   Y 38.6300  U 49.7362  V 50.0216       120 bit
+     241: P    T3 L0 Q1   QP 13   Y 39.1989  U 50.0886  V 50.6801       984 bit
+     241: P    T3 L0 Q2   QP 11   Y 38.6542  U 50.1199  V 50.6568       176 bit
+AU   243: P    T3 L0 Q0   QP 15   Y 35.6867  U 49.1253  V 49.2240       600 bit
+     243: P    T3 L0 Q1   QP 13   Y 37.5888  U 49.7169  V 50.5150      4272 bit
+     243: P    T3 L0 Q2   QP 11   Y 35.0252  U 49.3352  V 49.6408       944 bit
+AU   246: P    T2 L0 Q0   QP 14   Y 33.8615  U 48.8905  V 49.1593      6528 bit
+     246: P    T2 L0 Q1   QP 12   Y 35.1374  U 49.2271  V 49.6135     10376 bit
+     246: P    T2 L0 Q2   QP 10   Y 32.8241  U 48.7033  V 48.8827      4104 bit
+AU   245: P    T3 L0 Q0   QP 15   Y 34.0964  U 48.8040  V 48.5325      2288 bit
+     245: P    T3 L0 Q1   QP 13   Y 35.5896  U 49.4317  V 50.1652      6392 bit
+     245: P    T3 L0 Q2   QP 11   Y 32.5878  U 48.7548  V 48.3416      2432 bit
+AU   247: P    T3 L0 Q0   QP 15   Y 33.8983  U 48.9654  V 49.2690      1480 bit
+     247: P    T3 L0 Q1   QP 13   Y 35.0312  U 49.2594  V 49.8022      4704 bit
+     247: P    T3 L0 Q2   QP 11   Y 33.4502  U 48.6646  V 48.9635      1216 bit
+AU   256: I    T0 L0 Q0   QP 10   Y 51.0269  U 51.9817  V 52.3121    372288 bit
+     256: I    T0 L0 Q1   QP  8   Y 52.8079  U 53.3114  V 53.5740    192688 bit
+     256: I    T0 L0 Q2   QP  6   Y 54.3491  U 56.2058  V 57.1699    123776 bit
+AU   252: P    T1 L0 Q0   QP 13   Y 32.7334  U 48.4639  V 48.9179     22632 bit
+     252: P    T1 L0 Q1   QP 11   Y 33.6968  U 48.9478  V 49.8684     22688 bit
+     252: P    T1 L0 Q2   QP  9   Y 31.0115  U 47.5489  V 47.9662     20648 bit
+AU   250: P    T2 L0 Q0   QP 14   Y 32.4360  U 48.6339  V 49.0008      9176 bit
+     250: P    T2 L0 Q1   QP 12   Y 33.4752  U 48.8921  V 49.5122     12968 bit
+     250: P    T2 L0 Q2   QP 10   Y 31.1666  U 48.0372  V 48.3852      4616 bit
+AU   249: P    T3 L0 Q0   QP 15   Y 33.0664  U 48.8278  V 49.3293      3896 bit
+     249: P    T3 L0 Q1   QP 13   Y 34.0170  U 49.1569  V 50.0994      6656 bit
+     249: P    T3 L0 Q2   QP 11   Y 32.3932  U 48.5074  V 49.6371      1824 bit
+AU   251: P    T3 L0 Q0   QP 15   Y 32.5770  U 48.4432  V 48.6818      3192 bit
+     251: P    T3 L0 Q1   QP 13   Y 33.4691  U 48.8307  V 49.6498      4800 bit
+     251: P    T3 L0 Q2   QP 11   Y 31.4642  U 47.8926  V 48.6137       808 bit
+AU   254: P    T2 L0 Q0   QP 14   Y 36.0003  U 49.2565  V 49.1359      8520 bit
+     254: P    T2 L0 Q1   QP 12   Y 38.6831  U 49.8500  V 50.2034     13976 bit
+     254: P    T2 L0 Q2   QP 10   Y 34.2358  U 49.4946  V 49.2150      5384 bit
+AU   253: P    T3 L0 Q0   QP 15   Y 32.0511  U 48.2142  V 48.3357      5344 bit
+     253: P    T3 L0 Q1   QP 13   Y 32.9926  U 48.6373  V 49.4395      7448 bit
+     253: P    T3 L0 Q2   QP 11   Y 30.4219  U 47.2862  V 47.8383      5968 bit
+AU   255: P    T3 L0 Q0   QP 15   Y 37.7173  U 49.4024  V 49.1206      1264 bit
+     255: P    T3 L0 Q1   QP 13   Y 38.9191  U 49.8421  V 50.0074      3616 bit
+     255: P    T3 L0 Q2   QP 11   Y 37.7471  U 49.7653  V 49.6768      1912 bit
+AU   264: P    T0 L0 Q0   QP 10   Y 34.3566  U 49.5032  V 49.9721     39608 bit
+     264: P    T0 L0 Q1   QP  8   Y 35.4031  U 49.7833  V 50.6601     46176 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     264: P    T0 L0 Q2   QP  6   Y 34.0047  U 49.4705  V 50.5454     42520 bit
+AU   260: P    T1 L0 Q0   QP 13   Y 36.2241  U 49.2585  V 49.0389     20400 bit
+     260: P    T1 L0 Q1   QP 11   Y 37.6669  U 49.7756  V 50.1723     18904 bit
+     260: P    T1 L0 Q2   QP  9   Y 34.4260  U 49.0582  V 48.9994     23464 bit
+AU   258: P    T2 L0 Q0   QP 14   Y 35.7213  U 49.4241  V 49.5626      7208 bit
+     258: P    T2 L0 Q1   QP 12   Y 38.7552  U 49.9105  V 50.5394     13544 bit
+     258: P    T2 L0 Q2   QP 10   Y 34.3665  U 49.5981  V 49.6137      3728 bit
+AU   257: P    T3 L0 Q0   QP 15   Y 38.6517  U 49.8070  V 49.9646      4080 bit
+     257: P    T3 L0 Q1   QP 13   Y 39.3787  U 50.1037  V 50.6217      3856 bit
+     257: P    T3 L0 Q2   QP 11   Y 38.6928  U 50.1649  V 50.7132      5352 bit
+AU   259: P    T3 L0 Q0   QP 15   Y 35.5339  U 49.0338  V 48.3325      2664 bit
+     259: P    T3 L0 Q1   QP 13   Y 37.3092  U 49.7063  V 50.0975      4024 bit
+     259: P    T3 L0 Q2   QP 11   Y 34.9275  U 49.3797  V 49.3169      4048 bit
+AU   262: P    T2 L0 Q0   QP 14   Y 33.8097  U 49.0265  V 49.1638      7552 bit
+     262: P    T2 L0 Q1   QP 12   Y 35.4736  U 49.3676  V 49.2768     12536 bit
+     262: P    T2 L0 Q2   QP 10   Y 33.1273  U 48.9412  V 49.1439      3536 bit
+AU   261: P    T3 L0 Q0   QP 15   Y 34.4311  U 48.9818  V 48.5368      3904 bit
+     261: P    T3 L0 Q1   QP 13   Y 35.3869  U 49.4744  V 49.9525      4992 bit
+     261: P    T3 L0 Q2   QP 11   Y 33.0099  U 48.7152  V 48.5055      5160 bit
+AU   263: P    T3 L0 Q0   QP 15   Y 34.3422  U 49.0972  V 49.4153      4296 bit
+     263: P    T3 L0 Q1   QP 13   Y 34.7737  U 49.1990  V 49.3674      2400 bit
+     263: P    T3 L0 Q2   QP 11   Y 34.3296  U 49.1287  V 49.8976      3352 bit
+AU   272: I    T0 L0 Q0   QP 10   Y 50.9878  U 51.8522  V 52.3928    371904 bit
+     272: I    T0 L0 Q1   QP  8   Y 52.7806  U 53.3239  V 53.6698    193392 bit
+     272: I    T0 L0 Q2   QP  6   Y 54.3660  U 56.2256  V 57.1590    124424 bit
+AU   268: P    T1 L0 Q0   QP 13   Y 32.9115  U 48.8679  V 49.1775     27352 bit
+     268: P    T1 L0 Q1   QP 11   Y 33.8239  U 48.9590  V 49.4579     23080 bit
+     268: P    T1 L0 Q2   QP  9   Y 31.9566  U 48.4966  V 49.3309     26536 bit
+AU   266: P    T2 L0 Q0   QP 14   Y 32.5851  U 48.8996  V 48.9249     10792 bit
+     266: P    T2 L0 Q1   QP 12   Y 33.7624  U 49.0831  V 49.5037     12544 bit
+     266: P    T2 L0 Q2   QP 10   Y 31.4814  U 48.5910  V 48.9093      5896 bit
+AU   265: P    T3 L0 Q0   QP 15   Y 33.2417  U 49.1029  V 49.4155      4568 bit
+     265: P    T3 L0 Q1   QP 13   Y 34.0578  U 49.2368  V 49.8781      4096 bit
+     265: P    T3 L0 Q2   QP 11   Y 32.4189  U 48.8947  V 49.6629      2232 bit
+AU   267: P    T3 L0 Q0   QP 15   Y 32.8867  U 48.8134  V 49.2381      4696 bit
+     267: P    T3 L0 Q1   QP 13   Y 33.4506  U 48.8403  V 49.2275      3152 bit
+     267: P    T3 L0 Q2   QP 11   Y 32.2500  U 48.6049  V 49.3825      4264 bit
+AU   270: P    T2 L0 Q0   QP 14   Y 36.2014  U 49.4158  V 50.0360      9656 bit
+     270: P    T2 L0 Q1   QP 12   Y 39.1012  U 49.8426  V 50.8300     16280 bit
+     270: P    T2 L0 Q2   QP 10   Y 34.6370  U 49.6580  V 50.2927      7392 bit
+AU   269: P    T3 L0 Q0   QP 15   Y 32.2272  U 48.5464  V 48.4700      4368 bit
+     269: P    T3 L0 Q1   QP 13   Y 33.0986  U 48.6688  V 49.1610      5744 bit
+     269: P    T3 L0 Q2   QP 11   Y 31.0140  U 48.1886  V 48.5761      3816 bit
+AU   271: P    T3 L0 Q0   QP 15   Y 38.8858  U 49.7102  V 50.4863      4160 bit
+     271: P    T3 L0 Q1   QP 13   Y 39.9304  U 50.0169  V 50.8901      5600 bit
+     271: P    T3 L0 Q2   QP 11   Y 37.9564  U 50.1175  V 50.6965      4792 bit
+AU   280: P    T0 L0 Q0   QP 10   Y 34.3454  U 49.4899  V 50.5577     35336 bit
+     280: P    T0 L0 Q1   QP  8   Y 35.2125  U 49.7778  V 51.0125     43744 bit
+     280: P    T0 L0 Q2   QP  6   Y 34.0673  U 49.1832  V 49.8899     41704 bit
+AU   276: P    T1 L0 Q0   QP 13   Y 36.7266  U 49.3893  V 49.7578     21240 bit
+     276: P    T1 L0 Q1   QP 11   Y 37.5529  U 49.7641  V 50.1805     18576 bit
+     276: P    T1 L0 Q2   QP  9   Y 34.8048  U 49.2242  V 49.3304     23776 bit
+AU   274: P    T2 L0 Q0   QP 14   Y 36.5242  U 49.3393  V 49.7504      8256 bit
+     274: P    T2 L0 Q1   QP 12   Y 38.8716  U 49.9149  V 50.6098     14056 bit
+     274: P    T2 L0 Q2   QP 10   Y 34.7367  U 49.5235  V 50.2305      7008 bit
+AU   273: P    T3 L0 Q0   QP 15   Y 38.9078  U 49.8183  V 50.5219      4736 bit
+     273: P    T3 L0 Q1   QP 13   Y 39.9790  U 50.0715  V 51.0144      5792 bit
+     273: P    T3 L0 Q2   QP 11   Y 38.0951  U 50.0129  V 51.1648      3616 bit
+AU   275: P    T3 L0 Q0   QP 15   Y 36.2349  U 49.3104  V 49.7964      4608 bit
+     275: P    T3 L0 Q1   QP 13   Y 37.0846  U 49.6950  V 50.2119      3568 bit
+     275: P    T3 L0 Q2   QP 11   Y 35.2793  U 49.3524  V 50.1805      2216 bit
+AU   278: P    T2 L0 Q0   QP 14   Y 33.9663  U 49.1863  V 49.8569      4152 bit
+     278: P    T2 L0 Q1   QP 12   Y 35.1867  U 49.3884  V 50.1976      7776 bit
+     278: P    T2 L0 Q2   QP 10   Y 32.9632  U 48.9082  V 49.3622       808 bit
+AU   277: P    T3 L0 Q0   QP 15   Y 34.5836  U 49.0692  V 49.2295      1312 bit
+     277: P    T3 L0 Q1   QP 13   Y 35.6772  U 49.4351  V 50.0450      4048 bit
+     277: P    T3 L0 Q2   QP 11   Y 33.1654  U 48.7256  V 49.1889       968 bit
+AU   279: P    T3 L0 Q0   QP 15   Y 34.2052  U 49.3334  V 50.0935       112 bit
+     279: P    T3 L0 Q1   QP 13   Y 34.9917  U 49.4901  V 50.4702      1088 bit
+     279: P    T3 L0 Q2   QP 11   Y 33.9458  U 49.0309  V 49.6241       176 bit
+AU   288: I    T0 L0 Q0   QP 10   Y 50.9673  U 51.8847  V 52.2920    370272 bit
+     288: I    T0 L0 Q1   QP  8   Y 52.7885  U 53.2726  V 53.7118    193488 bit
+     288: I    T0 L0 Q2   QP  6   Y 54.3368  U 56.2868  V 57.1727    124376 bit
+AU   284: P    T1 L0 Q0   QP 13   Y 32.4778  U 48.7141  V 49.1823     16224 bit
+     284: P    T1 L0 Q1   QP 11   Y 33.2959  U 48.9142  V 49.7115     15672 bit
+     284: P    T1 L0 Q2   QP  9   Y 31.4595  U 48.0103  V 48.3653     17936 bit
+AU   282: P    T2 L0 Q0   QP 14   Y 31.8970  U 48.8064  V 49.4667      3552 bit
+     282: P    T2 L0 Q1   QP 12   Y 33.6718  U 49.0733  V 50.1205     13216 bit
+     282: P    T2 L0 Q2   QP 10   Y 31.3534  U 48.3772  V 48.7131      1128 bit
+AU   281: P    T3 L0 Q0   QP 15   Y 33.0587  U 49.0535  V 50.0346       624 bit
+     281: P    T3 L0 Q1   QP 13   Y 33.7696  U 49.0882  V 50.2752      1472 bit
+     281: P    T3 L0 Q2   QP 11   Y 32.7741  U 48.5746  V 49.2621       176 bit
+AU   283: P    T3 L0 Q0   QP 15   Y 32.6065  U 48.7229  V 49.3012       112 bit
+     283: P    T3 L0 Q1   QP 13   Y 33.2693  U 48.8242  V 49.6847       168 bit
+     283: P    T3 L0 Q2   QP 11   Y 31.7877  U 48.1463  V 48.5820       176 bit
+AU   286: P    T2 L0 Q0   QP 14   Y 36.1679  U 49.5562  V 49.9971      3016 bit
+     286: P    T2 L0 Q1   QP 12   Y 38.8484  U 49.9753  V 50.6919     10960 bit
+     286: P    T2 L0 Q2   QP 10   Y 34.9311  U 49.8062  V 50.4231       176 bit
+AU   285: P    T3 L0 Q0   QP 15   Y 31.9643  U 48.4793  V 49.0897      2264 bit
+     285: P    T3 L0 Q1   QP 13   Y 32.4626  U 48.5506  V 49.3286      1704 bit
+     285: P    T3 L0 Q2   QP 11   Y 30.8543  U 47.6689  V 47.7205      2296 bit
+AU   287: P    T3 L0 Q0   QP 15   Y 39.3179  U 49.9190  V 50.4917       136 bit
+     287: P    T3 L0 Q1   QP 13   Y 39.3625  U 50.1373  V 50.9105       168 bit
+     287: P    T3 L0 Q2   QP 11   Y 39.3737  U 50.3235  V 51.2684       176 bit
+AU   296: P    T0 L0 Q0   QP 10   Y 34.2396  U 49.4723  V 50.4620     31368 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     296: P    T0 L0 Q1   QP  8   Y 35.0203  U 49.6710  V 50.9869     37104 bit
+Profile compatability issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     296: P    T0 L0 Q2   QP  6   Y 33.8914  U 49.3617  V 50.7219     36656 bit
+AU   292: P    T1 L0 Q0   QP 13   Y 36.5442  U 49.3921  V 49.9157     14216 bit
+     292: P    T1 L0 Q1   QP 11   Y 37.7674  U 49.8208  V 50.7739     14616 bit
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+Profile compatability issue with deblocking filter
+Profile compatibility issue with deblocking filter
+     292: P    T1 L0 Q2   QP  9   Y 34.8179  U 49.4017  V 49.7718     18152 bit
+AU   290: P    T2 L0 Q0   QP 14   Y 36.4048  U 49.6024  V 49.9719      3864 bit
+     290: P    T2 L0 Q1   QP 12   Y 38.5407  U 49.9222  V 50.6743      7688 bit
+     290: P    T2 L0 Q2   QP 10   Y 35.3832  U 49.8029  V 50.4479      2984 bit
+AU   289: P    T3 L0 Q0   QP 15   Y 38.7462  U 49.8574  V 50.5272       120 bit
+     289: P    T3 L0 Q1   QP 13   Y 40.1336  U 50.0640  V 51.0224      2184 bit
+     289: P    T3 L0 Q2   QP 11   Y 38.7649  U 50.2275  V 51.2214       176 bit
+AU   291: P    T3 L0 Q0   QP 15   Y 36.5194  U 49.5351  V 49.9580       112 bit
+     291: P    T3 L0 Q1   QP 13   Y 37.6743  U 49.8424  V 50.6752      2232 bit
+     291: P    T3 L0 Q2   QP 11   Y 35.3118  U 49.6469  V 50.1365       176 bit
+AU   294: P    T2 L0 Q0   QP 14   Y 33.7399  U 49.1658  V 49.6881      2712 bit
+     294: P    T2 L0 Q1   QP 12   Y 35.0749  U 49.4222  V 50.2763      8608 bit
+     294: P    T2 L0 Q2   QP 10   Y 33.4605  U 49.1268  V 50.0442      3840 bit
+AU   293: P    T3 L0 Q0   QP 15   Y 34.5507  U 49.1447  V 49.4943       968 bit
+     293: P    T3 L0 Q1   QP 13   Y 35.3918  U 49.4326  V 50.2777      1712 bit
+     293: P    T3 L0 Q2   QP 11   Y 33.6464  U 49.0522  V 49.2741      3056 bit
+AU   295: P    T3 L0 Q0   QP 15   Y 34.2195  U 49.2494  V 50.0752       112 bit
+     295: P    T3 L0 Q1   QP 13   Y 34.9380  U 49.4116  V 50.4834      1984 bit
+     295: P    T3 L0 Q2   QP 11   Y 33.8191  U 49.1629  V 50.3192       176 bit
+AU   298: P    T2 L0 Q0   QP 14   Y 31.8691  U 48.7556  V 49.4015      4504 bit
+     298: P    T2 L0 Q1   QP 12   Y 33.5235  U 49.0132  V 50.1043     11288 bit
+     298: P    T2 L0 Q2   QP 10   Y 31.2843  U 48.4863  V 49.5327      1792 bit
+AU   297: P    T3 L0 Q0   QP 15   Y 32.8987  U 49.0707  V 49.9950       584 bit
+     297: P    T3 L0 Q1   QP 13   Y 33.8404  U 49.2148  V 50.4173      3208 bit
+     297: P    T3 L0 Q2   QP 11   Y 32.6028  U 48.8557  V 50.2048       176 bit
+AU   299: P    T3 L0 Q0   QP 15   Y 31.2780  U 48.5602  V 49.1145      5584 bit
+     299: P    T3 L0 Q1   QP 13   Y 33.0737  U 48.8072  V 50.0256      9576 bit
+     299: P    T3 L0 Q2   QP 11   Y 30.5531  U 48.1947  V 49.1191      5320 bit
+ 
+
+
+SUMMARY:
+                        bitrate    Min-bitr   Y-PSNR   U-PSNR   V-PSNR
+                       --------- ---------- -------- -------- --------
+   352x288 @  3.7500  1502.9234   759.5487  44.2313  52.7436  53.8027
+   352x288 @  7.5000  1726.7288   834.8768  38.8634  50.7387  51.4546
+   352x288 @ 15.0000  1878.6592   882.4184  36.0476  49.9391  50.4947
+   352x288 @ 30.0000  1943.3864   898.4520  35.1587  49.4797  50.0495
+
+Encoding speed: 1791.150 ms/frame, Time:537345.000 ms, Frames: 300
